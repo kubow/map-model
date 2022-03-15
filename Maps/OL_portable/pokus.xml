@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!--Topobase-->
+<ADQ>
+    <ADQ_MERENE_BODY>
+        <FID>108</FID>
+        <GEOM.X>-753028.78</GEOM.X>
+        <GEOM.Y>-1039515.25</GEOM.Y>
+        <GEOM>
+            <Point xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>-753028.78</X>
+              <Y>-1039515.25</Y>
+              <Z>0</Z>
+            </Point>
+        </GEOM>
+        <ORIENTATION>90</ORIENTATION><Z /><QUALITY /><JOB_VERSION>1458</JOB_VERSION><POINT_NUMBER>201</POINT_NUMBER><ELEVATION>396.62</ELEVATION><HEIGHT>34.52</HEIGHT><ID_OBJ_TYPE>1</ID_OBJ_TYPE><DATE_TIME>06/06/2014 09:17:40</DATE_TIME><DESCRIPTION>kontrolní odpovídač na APC (výška vztažená k přírubě antény)</DESCRIPTION><ORGANIZATION>1</ORGANIZATION><E>14 16 23.01</E><N>50 06 21.60</N><MISTO>LKPR</MISTO><UUID>51eebee8-5093-49ab-8a15-27925a7c73ac</UUID><NAZEV>LKPR-APC</NAZEV>
+    </ADQ_MERENE_BODY>
+    <ADQ_MERENE_BODY>
+        <FID>115</FID>
+        <GEOM.X>-755145.72</GEOM.X>
+        <GEOM.Y>-1038647.92</GEOM.Y>
+        <GEOM>
+            <Point xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>-755145.72</X>
+              <Y>-1038647.92</Y>
+              <Z>0</Z>
+            </Point>
+        </GEOM>
+        <ORIENTATION>90</ORIENTATION><Z /><QUALITY /><JOB_VERSION>1460</JOB_VERSION><POINT_NUMBER>204</POINT_NUMBER><ELEVATION>356.4</ELEVATION><HEIGHT>6.25</HEIGHT><ID_OBJ_TYPE>1</ID_OBJ_TYPE><DATE_TIME>05/13/2014 09:24:44</DATE_TIME><DESCRIPTION>RXS-00 (ILS30-LOC), výška vztažená k přírubě antény</DESCRIPTION><ORGANIZATION>1</ORGANIZATION><E>14 14 31.45</E><N>50 06 39.91</N><MISTO>LKPR</MISTO><UUID>c707bbb6-03ef-4068-b624-396cf91e2313</UUID><NAZEV>LKPR-ILS30</NAZEV>
+    </ADQ_MERENE_BODY>
+    <ADQ_MERENE_BODY>
+        <FID>116</FID>
+        <GEOM.X>-752847.17</GEOM.X>
+        <GEOM.Y>-1038248.65</GEOM.Y>
+        <GEOM>
+            <Point xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>-752847.17</X>
+              <Y>-1038248.65</Y>
+              <Z>0</Z>
+            </Point>
+        </GEOM>
+        <ORIENTATION>90</ORIENTATION><Z /><QUALITY /><JOB_VERSION>1461</JOB_VERSION><POINT_NUMBER>205</POINT_NUMBER><ELEVATION>354.86</ELEVATION><HEIGHT>6.3</HEIGHT><ID_OBJ_TYPE>1</ID_OBJ_TYPE><DATE_TIME>06/05/2014 13:46:34</DATE_TIME><DESCRIPTION>RXS-01-(TS8), výška vztažená k přírubě antény</DESCRIPTION><ORGANIZATION>1</ORGANIZATION><E>14 16 23.25</E><N>50 07 03.01</N><MISTO>LKPR</MISTO><UUID>8c8a4e0f-9044-4b38-b7ff-2a40fb44b511</UUID><NAZEV>LKPR-TS8</NAZEV>
+    </ADQ_MERENE_BODY>
+    <ADQ_MERENE_BODY>
+        <FID>117</FID>
+        <GEOM.X>-751856.81</GEOM.X>
+        <GEOM.Y>-1038145.06</GEOM.Y>
+        <GEOM>
+            <Point xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>-751856.81</X>
+              <Y>-1038145.06</Y>
+              <Z>0</Z>
+            </Point>
+        </GEOM><ORIENTATION>90</ORIENTATION><Z /><QUALITY /><JOB_VERSION>1462</JOB_VERSION><POINT_NUMBER>206</POINT_NUMBER><ELEVATION>359.68</ELEVATION><HEIGHT>6.19</HEIGHT><ID_OBJ_TYPE>1</ID_OBJ_TYPE><DATE_TIME>06/06/2014 08:11:56</DATE_TIME><DESCRIPTION>RXS-02-(1KM), výška vztažená k přírubě antény</DESCRIPTION><ORGANIZATION>1</ORGANIZATION><E>14 17 11.90</E><N>50 07 10.76</N><MISTO>LKPR</MISTO><UUID>71ca671d-be38-4c5c-abed-9c26fde54a1e</UUID><NAZEV>LKPR-1KM</NAZEV>
+    </ADQ_MERENE_BODY>
+    <ADQ_MERENE_BODY>
+        <FID>118</FID>
+        <GEOM.X>-753944.81</GEOM.X>
+        <GEOM.Y>-1038558.33</GEOM.Y>
+        <GEOM>
+            <Point xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>-753944.81</X>
+              <Y>-1038558.33</Y>
+              <Z>0</Z>
+            </Point>
+        </GEOM>
+        <ORIENTATION>90</ORIENTATION><Z /><QUALITY /><JOB_VERSION>1463</JOB_VERSION><POINT_NUMBER>207.1</POINT_NUMBER><ELEVATION>352.86</ELEVATION><HEIGHT>5.39</HEIGHT><ID_OBJ_TYPE>1</ID_OBJ_TYPE><DATE_TIME>06/06/2014 12:25:49</DATE_TIME><DESCRIPTION>TXS-03-(PAR24), výška vztažená k přírubě antény</DESCRIPTION><ORGANIZATION>1</ORGANIZATION><E>14 15 30.68</E><N>50 06 48.17</N><MISTO>LKPR</MISTO><UUID>83232a7e-c09b-45c1-a8e8-f43215358284</UUID><NAZEV>LKPR-PAR24</NAZEV>
+    </ADQ_MERENE_BODY>
+    <ADQ_MERENE_BODY>
+        <FID>119</FID>
+        <GEOM.X>-753944.81</GEOM.X>
+        <GEOM.Y>-1038558.33</GEOM.Y>
+        <GEOM>
+            <Point xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+              <X>-753944.81</X>
+              <Y>-1038558.33</Y>
+              <Z>0</Z>
+            </Point>
+        </GEOM>
+        <ORIENTATION>90</ORIENTATION><Z /><QUALITY /><JOB_VERSION>1464</JOB_VERSION><POINT_NUMBER>207.2</POINT_NUMBER><ELEVATION>353.76</ELEVATION><HEIGHT>6.29</HEIGHT><ID_OBJ_TYPE>1</ID_OBJ_TYPE><DATE_TIME>06/06/2014 12:26:07</DATE_TIME><DESCRIPTION>RXS-03-(PAR24), výška vztažená k přírubě antény</DESCRIPTION><ORGANIZATION>1</ORGANIZATION><E>14 15 30.68</E><N>50 06 48.17</N><MISTO>LKPR</MISTO><UUID>fc68fe08-d144-4894-bae6-00f81adabeaf</UUID><NAZEV>LKPR-PAR24</NAZEV>
+    </ADQ_MERENE_BODY>
+</ADQ>
