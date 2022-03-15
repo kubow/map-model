@@ -1,0 +1,13 @@
+<Layers>
+  <Background>%%</Background>
+  <Water_System>
+    <Present_State>%%</Present_State>
+    <Future_State>%%</Future_State>
+    <Monitoring>%%</Monitoring>
+  </Water_System>
+  <Collection_System>
+    <Present_State>%%</Present_State>
+    <Future_State>%%</Future_State>
+    <Monitoring>%%</Monitoring>
+  </Collection_System>
+</Layers>
