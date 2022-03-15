@@ -1,0 +1,52 @@
+--- Stáří vodovodu z nekovových materiálů
+N10: IIf((Now()-[nr_report].[cdate])/365>50,IIf([HelpMaterial].[Metal]=False,[Points Age],Null),Null)
+N8: IIf((Now()-[nr_report].[cdate])/365>40 And (Now()-[nr_report].[cdate])/365<=50,IIf([HelpMaterial].[Metal]=False,[Points Age],Null),Null)
+N5: IIf((Now()-[nr_report].[cdate])/365>20 And (Now()-[nr_report].[cdate])/365<=40,IIf([HelpMaterial].[Metal]=False,[Points Age],Null),Null)
+N0: IIf((Now()-[nr_report].[cdate])/365<=20,IIf([HelpMaterial].[Metal]=False,[Points Age],Null),Null)
+--- Stáří vodovodu z litinových trub
+L10: IIf((Now()-[nr_report].[cdate])/365>80,IIf([HelpMaterial].[MatCode]="9",[Points Age],Null),Null)
+L6: IIf((Now()-[nr_report].[cdate])/365>60 And (Now()-[nr_report].[cdate])/365<=80,IIf([HelpMaterial].[MatCode]="9",[Points Age],Null),Null)
+L4: IIf((Now()-[nr_report].[cdate])/365>40 And (Now()-[nr_report].[cdate])/365<=60,IIf([HelpMaterial].[MatCode]="9",[Points Age],Null),Null)
+L2: IIf((Now()-[nr_report].[cdate])/365>20 And (Now()-[nr_report].[cdate])/365<=40,IIf([HelpMaterial].[MatCode]="9",[Points Age],Null),Null)
+L0: IIf((Now()-[nr_report].[cdate])/365<=20,IIf([HelpMaterial].[MatCode]="9",[Points Age],Null),Null)
+--- Stáří vodovodu z ocelových trub
+O10: IIf((Now()-[nr_report].[cdate])/365>30,IIf([HelpMaterial].[MatCode]="8" Or [HelpMaterial].[MatCode]="20",[Points Age],Null),Null)
+O6: IIf((Now()-[nr_report].[cdate])/365>20 And (Now()-[nr_report].[cdate])/365<=30,IIf([HelpMaterial].[MatCode]="8" Or [HelpMaterial].[MatCode]="20",[Points Age],Null),Null)
+O3: IIf((Now()-[nr_report].[cdate])/365>10 And (Now()-[nr_report].[cdate])/365<=20,IIf([HelpMaterial].[MatCode]="8" Or [HelpMaterial].[MatCode]="20",[Points Age],Null),Null)
+O0: IIf((Now()-[nr_report].[cdate])/365<=10,IIf([HelpMaterial].[MatCode]="8" Or [HelpMaterial].[MatCode]="20",[Points Age],Null),Null)
+
+InStr(1,[RegForm_2].[name],"Failure rate")
+InStr(1,[RegForm_2].[name],"GIS Pipe under WW_New")
+InStr(1,[RegForm_2].[name],"Operational Criticality_New")
+InStr(1,[RegForm_2].[name],"Substitution_New")
+
+IIf(InStr(1,[RegForm_2].[name],"GIS Pipe under WW_New"),"Distribuční význam",Null)
+IIf(InStr(1,[RegForm_2].[name],"Substitution_New"),"Distribuční význam",Null)
+IIf(InStr(1,[RegForm_2].[name],"Operational Criticality_New"),"Operational Criticality_New",Null)
+
+-------------------------
+
+IIf(InStr(1,[RegForm_2].[name],"Importance_New"),IIf([RegForm_2].[from]=0,"Hlavní (II. katerogie)","Přiváděcí (I. katerogie)"),Null)
+IIf(InStr(1,[RegForm_2].[name],"Operational Criticality_New"),IIf([RegForm_2].[from]=0,"Ostatní","Provozně kritický řad"),Null)
+IIf(InStr(1,[RegForm_2].[name],"Substitution_New"),IIf([RegForm_2].[from]=0,"Zastupitelný",IIf([RegForm_2].[from]=0.1,"Částečně zastupitelný","Nezastupitelný")),Null)
+IIf(InStr(1,[RegForm_2].[name],"GIS Pipe under WW_New"),IIf([RegForm_2].[from]=3,"Řad uložený pod kanalizací ve vzdálenosti do 5 m",IIf([RegForm_2].[from]=1,"Řad uložený pod kanalizací ve vzdálenosti do 10 m",IIf([RegForm_2].[from]=2,"Koncový řad bez možnosti proplachu","Není"))),Null)
+
+------------------------
+
+DESC: IIf([RegForm_2].[from]=0,"do " & [RegForm_2].[to],IIf([RegForm_2].[to]>1000,[RegForm_2].[from] & " a více",[RegForm_2].[from] & "-" & [RegForm_2].[to]))
+
+DESC: IIf(InStr(1,[RegForm_2].[name],"Importance_New"),IIf([RegForm_2].[from]=0,"Hlavní (II. katerogie)","Přiváděcí (I. katerogie)"),IIf(InStr(1,[RegForm_2].[name],"Operational Criticality_New"),IIf([RegForm_2].[from]=0,"Ostatní","Provozně kritický řad"),IIf(InStr(1,[RegForm_2].[name],"Substitution_New"),IIf([RegForm_2].[from]=0,"Zastupitelný",IIf([RegForm_2].[from]=0.1,"Částečně zastupitelný","Nezastupitelný")),IIf(InStr(1,[RegForm_2].[name],"GIS Pipe under WW_New"),IIf([RegForm_2].[from]=3,"Řad uložený pod kanalizací ve vzdálenosti do 5 m",IIf([RegForm_2].[from]=1,"Řad uložený pod kanalizací ve vzdálenosti do 10 m",IIf([RegForm_2].[from]=2,"Koncový řad bez možnosti proplachu","Není"))),Null))))
+
+DESC: IIf(InStr(1,[RegForm_2].[name],"Importance_New"),IIf([RegForm_2].[from]=0,"Hlavní (II. katerogie)","Přiváděcí (I. katerogie)"),IIf(InStr(1,[RegForm_2].[name],"Operational Criticality_New"),IIf([RegForm_2].[from]=0,"Ostatní","Provozně kritický řad"),IIf(InStr(1,[RegForm_2].[name],"Substitution_New"),IIf([RegForm_2].[from]=0,"Zastupitelný",IIf([RegForm_2].[from]=0.1,"Částečně zastupitelný","Nezastupitelný")),IIf(InStr(1,[RegForm_2].[name],"GIS Pipe under WW_New"),IIf([RegForm_2].[from]=3,"Řad uložený pod kanalizací ve vzdálenosti do 5 m",IIf([RegForm_2].[from]=1,"Řad uložený pod kanalizací ve vzdálenosti do 10 m",IIf([RegForm_2].[from]=2,"Koncový řad bez možnosti proplachu","Není"))),IIf([RegForm_2].[from]=0,"do " & [RegForm_2].[to],IIf([RegForm_2].[to]>1000,[RegForm_2].[from] & " a více",[RegForm_2].[from] & "-" & [RegForm_2].[to]))))))
+
+
+SELECT RegForm_1.*, [5d_RegForm_2-Age_Desc].*
+FROM RegForm_1 INNER JOIN [5d_RegForm_2-Age_Desc] ON RegForm_1.id_inv = [5d_RegForm_2-Age_Desc].[2j_CriterionsByINV_id_inv]
+WHERE ((([5d_RegForm_2-Age_Desc].[2j_CriterionsByINV_id_inv])=" & Serie(ColID, i) & ") AND (([5d_RegForm_2-Age_Desc].mat_from) Is Null Or ([5d_RegForm_2-Age_Desc].mat_from)=" & CDbl(Serie(ColMat, i)) & "))
+ORDER BY [5d_RegForm_2-Age_Desc].[2j_CriterionsByINV_id_inv], [5d_RegForm_2-Age_Desc].item, [5d_RegForm_2-Age_Desc].sqn;
+
+"SELECT RegForm_1.*, [5d_RegForm_2-Age_Desc].*, RegForm_1.id_inv FROM RegForm_1 INNER JOIN [5d_RegForm_2-Age_Desc] ON RegForm_1.id_inv = [5d_RegForm_2-Age_Desc].[2j_CriterionsByINV_id_inv] WHERE ((([5d_RegForm_2-Age_Desc].mat_from) Is Null Or ([5d_RegForm_2-Age_Desc].mat_from) = " & CDbl(Serie(ColMat, i)) & ") And (([5d_RegForm_2-Age_Desc].[2j_CriterionsByINV_id_inv]) = " & Serie(ColID, i) & ")) ORDER BY [5d_RegForm_2-Age_Desc].[2j_CriterionsByINV_id_inv], [5d_RegForm_2-Age_Desc].item, [5d_RegForm_2-Age_Desc].sqn;"
+
+-----
+
+SELECT nr_segment.segid, nr_segment.id_inv, RegForm_1.id_cust, RegForm_1.name_inv, nr_segment.diameter, nr_segment.material, nr_segment.datasource, nr_segment.cyear FROM (nr_segment INNER JOIN [0_SID Selection] ON nr_segment.segid = [0_SID Selection].segid) LEFT JOIN RegForm_1 ON nr_segment.id_inv = RegForm_1.id_inv WHERE (((nr_segment.id_inv)=1)) ORDER BY nr_segment.id_inv;

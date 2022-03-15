@@ -1,0 +1,241 @@
+<?xml version="1.0" standalone="yes"?>
+<muIO>
+  <Task>
+    <a Name="01_Delete"/>
+    <a Enabled="True"/>
+    <a WriteMode="Delete"/>
+    <a ShowDetails="True"/>
+    <a SelectedOnly="False"/>
+    <a Source="c:\DHI\MU_GIS_Update\Outputs\Model.mdb"/>
+    <a Target="c:\DHI\MU_GIS_Update\Outputs\Model.mdb"/>
+    <SourceStorage>
+      <a Name="ESRI Geodatabase Storage"/>
+      <Property Name="Read_OID" Value="No"/>
+      <Property Name="Read_ESRIGeometry" Value="Yes"/>
+      <Property Name="Read_AlternativeGeometry" Value="All"/>
+      <Property Name="Compute_FromToNode" Value="Yes"/>
+      <Property Name="ESRICompatible" Value="Yes"/>
+      <Property Name="ESRITopologyCompatible" Value="Yes"/>
+      <Property Name="WriteMode" Value="Replace"/>
+      <Property Name="Enable_Fill_Default" Value="Yes"/>
+      <Property Name="PreserveNetworkConnections" Value="No"/>
+      <Property Name="CodedValueDomainFieldExt" Value="No"/>
+    </SourceStorage>
+    <TargetStorage>
+      <a Name="ESRI Geodatabase Storage"/>
+      <Property Name="Read_OID" Value="No"/>
+      <Property Name="Read_ESRIGeometry" Value="Yes"/>
+      <Property Name="Read_AlternativeGeometry" Value="All"/>
+      <Property Name="Compute_FromToNode" Value="Yes"/>
+      <Property Name="ESRICompatible" Value="Yes"/>
+      <Property Name="ESRITopologyCompatible" Value="Yes"/>
+      <Property Name="WriteMode" Value="Delete"/>
+      <Property Name="Enable_Fill_Default" Value="Yes"/>
+      <Property Name="PreserveNetworkConnections" Value="No"/>
+      <Property Name="CodedValueDomainFieldExt" Value="No"/>
+    </TargetStorage>
+    <Bridge>
+      <a Name="Standard MU DM Bridge"/>
+    </Bridge>
+    <Section>
+      <a Name="Pipe"/>
+      <a Enabled="True"/>
+      <a Source="mw_Pipe"/>
+      <a Target="mw_Pipe"/>
+      <a AdvancedMode="True"/>
+      <a SourceFilter="Description = 'ToBeDeleted'"/>
+      <Commands>
+        <C C="OBJECTID = OBJECTID"/>
+        <C C="SHAPE = SHAPE"/>
+        <C C="MUID = MUID"/>
+        <C C="Description = Description"/>
+        <C C="CDate = CDate"/>
+        <C C="CYear = CYear"/>
+        <C C="Asset = Asset"/>
+        <C C="DataSource = DataSource"/>
+        <C C="Coeff1 = Coeff1"/>
+        <C C="Coeff2 = Coeff2"/>
+        <C C="Coeff3 = Coeff3"/>
+        <C C="Coeff4 = Coeff4"/>
+        <C C="CVNo = CVNo"/>
+        <C C="Diameter = Diameter"/>
+        <C C="Thickness = Thickness"/>
+        <C C="GroupID = GroupID"/>
+        <C C="L = L"/>
+        <C C="LCoeff = LCoeff"/>
+        <C C="Material = Material"/>
+        <C C="PN = PN"/>
+        <C C="PZoneID = PZoneID"/>
+        <C C="DZoneID = DZoneID"/>
+        <C C="PMapZone = PMapZone"/>
+        <C C="RCoeff = RCoeff"/>
+        <C C="StateNo = StateNo"/>
+        <C C="StatusNo = StatusNo"/>
+        <C C="StreetName = StreetName"/>
+        <C C="Population = Population"/>
+        <C C="Tag = Tag"/>
+        <C C="UserLNo = UserLNo"/>
+        <C C="WaveSpeed = WaveSpeed"/>
+        <C C="Bulk_Coeff = Bulk_Coeff"/>
+        <C C="Wall_Coeff = Wall_Coeff"/>
+        <C C="Damage = Damage"/>
+        <C C="SMFLAG = SMFLAG"/>
+        <C C="Element_S = Element_S"/>
+        <C C="L_S = L_S"/>
+        <C C="Diameter_S = Diameter_S"/>
+        <C C="Material_S = Material_S"/>
+        <C C="RCoeff_S = RCoeff_S"/>
+        <C C="LCoeff_S = LCoeff_S"/>
+        <C C="StatusNo_S = StatusNo_S"/>
+        <C C="PZoneID_S = PZoneID_S"/>
+        <C C="FROMNODE = FROMNODE"/>
+        <C C="TONODE = TONODE"/>
+      </Commands>
+    </Section>
+    <Section>
+      <a Name="DemAlloc"/>
+      <a Enabled="True"/>
+      <a Source="mw_DemAlloc"/>
+      <a Target="mw_DemAlloc"/>
+      <a AdvancedMode="True"/>
+      <Commands>
+        <C C="SHAPE = Shape"/>
+        <C C="OBJECTID = OBJECTID"/>
+        <C C="MUID = MUID"/>
+        <C C="JunctionID = JunctionID"/>
+        <C C="PipeID = PipeID"/>
+        <C C="ActDemand = ActDemand"/>
+        <C C="MinDemand = MinDemand"/>
+        <C C="AveDemand = AveDemand"/>
+        <C C="MaxDemand = MaxDemand"/>
+        <C C="Pattern = Pattern"/>
+        <C C="X = X"/>
+        <C C="Y = Y"/>
+        <C C="Dem_Owner = Dem_Owner"/>
+        <C C="Tag = Tag"/>
+        <C C="DemDate = DemDate"/>
+        <C C="Z = Z"/>
+        <C C="ESTHEIGHT = ESTHEIGHT"/>
+        <C C="PZoneID = PZoneID"/>
+        <C C="DZoneID = DZoneID"/>
+        <C C="MinPre = MinPre"/>
+        <C C="Flag = Flag"/>
+        <C C="Dem_Units = Dem_Units"/>
+        <C C="Dem_EP = Dem_EP"/>
+        <C C="Dem_ET = Dem_ET"/>
+        <C C="_X = _X"/>
+        <C C="_Y = _Y"/>
+        <C C="_Z = _Z"/>
+        <C C="Reference_ID = Reference_ID"/>
+        <C C="Description = Description"/>
+        <C C="Dem_Category = Dem_Category"/>
+        <C C="Category_Type = Category_Type"/>
+        <C C="Dem_Location = Dem_Location"/>
+      </Commands>
+    </Section>
+  </Task>
+  <Task>
+    <a Name="02_Append"/>
+    <a Enabled="True"/>
+    <a WriteMode="Append"/>
+    <a ShowDetails="True"/>
+    <a SelectedOnly="False"/>
+    <a Source="c:\DHI\MU_GIS_Update\Outputs\Master.mdb"/>
+    <a Target="c:\DHI\MU_GIS_Update\Outputs\Model.mdb"/>
+    <Topology>
+      <a Enabled="True"/>
+      <Property Name="NetworkName" Value="mw_Net"/>
+      <Property Name="JunctionName" Value="mw_Junction"/>
+      <Property Name="OrphanName" Value="mw_Net_Junctions"/>
+      <Property Name="TempName" Value="topotemp"/>
+      <Property Name="EdgeName" Value="mw_Pipe"/>
+      <Property Name="SnapTolerance" Value="0.01"/>
+      <Property Name="FinalSnap" Value="0.01"/>
+      <Property Name="Prefix" Value=""/>
+      <Property Name="RemoveTinyEdges" Value="true"/>
+    </Topology>
+    <SourceStorage>
+      <a Name="ESRI Geodatabase Storage"/>
+      <Property Name="Read_OID" Value="No"/>
+      <Property Name="Read_ESRIGeometry" Value="Yes"/>
+      <Property Name="Read_AlternativeGeometry" Value="All"/>
+      <Property Name="Compute_FromToNode" Value="Yes"/>
+      <Property Name="ESRITopologyCompatible" Value="Yes"/>
+      <Property Name="WriteMode" Value="Replace"/>
+      <Property Name="Enable_Fill_Default" Value="Yes"/>
+      <Property Name="PreserveNetworkConnections" Value="No"/>
+      <Property Name="CodedValueDomainFieldExt" Value="No"/>
+    </SourceStorage>
+    <TargetStorage>
+      <a Name="ESRI Geodatabase Storage"/>
+      <Property Name="Read_OID" Value="No"/>
+      <Property Name="Read_ESRIGeometry" Value="Yes"/>
+      <Property Name="Read_AlternativeGeometry" Value="All"/>
+      <Property Name="Compute_FromToNode" Value="Yes"/>
+      <Property Name="ESRICompatible" Value="Yes"/>
+      <Property Name="ESRITopologyCompatible" Value="Yes"/>
+      <Property Name="WriteMode" Value="Append"/>
+      <Property Name="Enable_Fill_Default" Value="Yes"/>
+      <Property Name="PreserveNetworkConnections" Value="No"/>
+      <Property Name="CodedValueDomainFieldExt" Value="No"/>
+    </TargetStorage>
+    <Bridge>
+      <a Name="Standard MU DM Bridge"/>
+    </Bridge>
+    <Section>
+      <a Name="Pipe"/>
+      <a Enabled="True"/>
+      <a Source="WU_USEK_VOD_RAD"/>
+      <a Target="mw_Pipe"/>
+      <a AdvancedMode="True"/>
+      <a SectionMode="Append"/>
+      <a SourceFilter="Status = 1"/>
+      <Commands>
+        <C C="SHAPE = SHAPE"/>
+        <C C="Asset = GLOBAL_"/>
+      </Commands>
+    </Section>
+    <Section>
+      <a Name="DemAlloc"/>
+      <a Enabled="True"/>
+      <a Source="XB_MM"/>
+      <a Target="mw_DemAlloc"/>
+      <a AdvancedMode="True"/>
+      <a SectionMode="Append"/>
+      <Commands>
+        <C C="OBJECTID = OBJECTID"/>
+        <C C="SHAPE = SHAPE"/>
+        <C C="MUID = MP_ID"/>
+        <C C="Reference_ID ="/>
+        <C C="JunctionID ="/>
+        <C C="PipeID ="/>
+        <C C="ActDemand ="/>
+        <C C="MinDemand ="/>
+        <C C="AveDemand ="/>
+        <C C="MaxDemand ="/>
+        <C C="Pattern ="/>
+        <C C="X = X"/>
+        <C C="Y = Y"/>
+        <C C="Description ="/>
+        <C C="Dem_Category ="/>
+        <C C="Category_Type ="/>
+        <C C="Dem_Owner ="/>
+        <C C="Dem_Location ="/>
+        <C C="Tag ="/>
+        <C C="DemDate ="/>
+        <C C="Z ="/>
+        <C C="ESTHEIGHT ="/>
+        <C C="PZoneID ="/>
+        <C C="DZoneID ="/>
+        <C C="MinPre ="/>
+        <C C="Flag ="/>
+        <C C="Dem_Units ="/>
+        <C C="Dem_EP ="/>
+        <C C="Dem_ET ="/>
+        <C C="_X = _X"/>
+        <C C="_Y = _Y"/>
+        <C C="_Z = _Z"/>
+      </Commands>
+    </Section>
+  </Task>
+</muIO>
