@@ -1,7 +1,11 @@
+[[GeoData]]
+
+[[GeoCoding]]
 
 # Geographic format types
 
 - Flat Files with geographic coordinates
+- [[Geodatabase]]
 - [[GeoTIFF]]
 - [[GeoTopoJSON]]
 - [[KML-type]]

@@ -31,6 +31,7 @@ This list is not exhaustive, rather picks most important ones.
 	- [[Model]] (DHI Water System tooling)
 	- [[MIKE Software]]
 - [[Python GIS]]
+	- [GSTools](https://github.com/GeoStat-Framework/GSTools) (part of [Geostat framework](https://geostat-framework.org/))
 - [[Web-based GIS]]
 
 
