@@ -14,9 +14,16 @@ epanetApp from BaseForm (JAVA, 3D in plan) [http://baseform.org/np4/buy/epanetAp
 
 ## QGIS
 
+### Ghydraulics
+
 QGIS module GHydraulics [http://epanet.de/ghydraulics/](http://epanet.de/ghydraulics/)  
 QGIS plugin GHydraulics [http://plugins.qgis.org/plugins/ghydraulic/](http://plugins.qgis.org/plugins/ghydraulic/)  
+[sdteffen's blog: GHydraulics](http://sdteffen.blogspot.com/search/label/GHydraulics)
+
 GHydraulics [https://sourceforge.net/projects/ghydraulic/](https://sourceforge.net/projects/ghydraulic/)  
+
+### Oslandia
+
 QGIS addon „OSLANDIA“ [http://www.oslandia.com/qgis-plugin-for-water-management-en.html](http://www.oslandia.com/qgis-plugin-for-water-management-en.html)  
   
 

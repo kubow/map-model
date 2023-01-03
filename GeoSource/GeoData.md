@@ -2,6 +2,10 @@
 Geodata jsou dvojího typu:  
 - primární geodata - metody pomocí získávání pomocí mapování a statistického šetření 
 - sekundární geodata  
+	- skenování 
+	- odvozením  
+	- topografickou vektorizaci  
+	- import existujících dat  
   
 **Mapování** je proces při němž jsou identifikovány a vymezeny zájmové objekty ve vymezené oblasti.  
 Při tzv. **topografickém mapování** vznikají topografické mapy.  
@@ -25,11 +29,7 @@ Příkladem využití poměrně jednoduchých nástrojů  je statistické šet�
   
 Jako **sekundární** označujeme taková geodata, která vznikla sekundárními metodami získávání. Při využití sekundárních metod jsou do finální podoby přebírána a následně transformována geodata, doposud existující v různých formách, které ne zcela nevyhovují našim současným požadavkům. Na tomto místě si můžeme představit geodata uložená na tradičních analogových mediích (mapách, tabulkách, fotografiích, technické dokumentaci, aj.) nebo data existující v digitální podobě avšak v nevyhovujícím formátu.  
 Jako příklady sekundáních metod získávání geodat je možno uvést:  
-· skenování  
-· odvozením  
-· topografickou vektorizaci  
-· import existujících dat  
-· a další  
+
   
 
 # Jaká geodata jsou nám k dispozici ?

@@ -6,9 +6,15 @@ https://postgis.net/
 [Planet PostGIS](http://planet.postgis.net/)
 [Postgis @ StackExchange](https://gis.stackexchange.com/questions/tagged/postgis)
 
+[postgisQueryBuilder | GEOGEARS](https://geogear.wordpress.com/postgisquerybuilder-v1-6-cheatsheet/)
+
+[Part 1: Loading OpenStreetMap data into PostGIS: An Almost Idiot's Guide](http://www.bostongis.com/?content_name=loading_osm_postgis#229)
+
+
+## QGIS
 [Introduction to spatial databases with PostGIS and QGIS](http://millermountain.com/geospatialblog/2018/02/21/spatial-databases-postgis-qgis/)
-
-
+[Opening Data from PostgreSQL — QGIS Documentation documentation](https://docs.qgis.org/3.22/en/docs/user_manual/managing_data_source/opening_data.html#postgresql-service-connection-file)
+[Visualizing PostGIS Queries in QGIS using RT Sql Layer Plugin | Free and Open Source GIS Ramblings](https://anitagraser.com/2010/10/16/visualizing-postgis-queries-in-qgis-using-rt-sql-layer-plugin/)
 
 
 ## Coordinate systems

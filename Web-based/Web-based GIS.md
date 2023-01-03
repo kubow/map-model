@@ -1,6 +1,10 @@
 [13 JS Libraries to create maps](https://www.hongkiat.com/blog/javascript-libraries-for-interactive-maps/)  
 
+- [Digital Attack Map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=15999&view=map)
 - [[Geoserver]]
+- [[GIS Cloud]]
+- [GPS vehicle tracking and fleet management platform | GpsGate](https://gpsgate.com/)
+- [GPS Visualizer](https://www.gpsvisualizer.com/) - Online tool
 - [[Mapserver]]
 - [[D3.js]]
 - [[Leaflet.js]]
@@ -10,12 +14,13 @@
 [Local maps for offline HTML5 app (stackexchange.com)](https://gis.stackexchange.com/questions/18830/how-to-serve-local-maps-for-an-offline-html5-webmapping-app)  
 [Javascript web API (stackexchange.com)](https://gis.stackexchange.com/questions/8897/what-is-a-good-javascript-web-api-preferably-open-for-building-web-maps-that-r?rq=1)
 
+
   
 CartoWeb [http://cartoweb.org/](http://cartoweb.org/)  
 GeoMajas [http://www.geomajas.org/](http://www.geomajas.org/)  
-openLayers  
+  
 MapGuide OpenSource [http://mapguide.osgeo.org/](http://mapguide.osgeo.org/)  
-MapServer  
+
 
 TileMill [https://tilemill-project.github.io/tilemill/](https://tilemill-project.github.io/tilemill/)  
   
@@ -35,4 +40,3 @@ offline maps web based
 [http://gis.stackexchange.com/questions/42069/what-is-the-easiest-way-to-let-a-user-upload-overlayers-to-openlayers-geoserver](http://gis.stackexchange.com/questions/42069/what-is-the-easiest-way-to-let-a-user-upload-overlayers-to-openlayers-geoserver)  
 [https://geonet.esri.com/thread/93671](https://geonet.esri.com/thread/93671)  
   
-could be locally sitting spatialite?

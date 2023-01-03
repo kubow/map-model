@@ -11,3 +11,5 @@ Essential python libraries [http://carsonfarmer.com/2013/07/essential-python-geo
 
 
 
+  
+Geospatial python [http://geospatialpython.com/](http://geospatialpython.com/)  

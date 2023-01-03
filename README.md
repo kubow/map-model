@@ -1,30 +1,35 @@
 # GIS based tools
 
-[[Geographic Sources]] -  list of Geographic formats
+[[Geographic Sources]] -  list of Geographic data formats, their storage and actual database.
 
-This list is not exhaustive, rather picks most important ones.
+This list is not exhaustive, rather picks most important ones. [Geographic information system software - Wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system_software)
 
 - Standalone applications
 	- [[Android GIS]] - section with software specifically for Android OS
 	- [[ArcGIS]]
 	- BT747 - utlimate log reader and converter
+	- [[CAD]] Software (only GIS related topics)
 	- [[CloudCompare]]
 	- [[DivaGIS]]
 	- [[ETGeo Wizards]]
-	- [GDAL](https://gdal.org/) - geospatial data abstraction library
+	- [[GDAL]] - geospatial data abstraction library
+	- [[GeoDa]]
+	- [[Geosetter]] - photography geotagging tool
+	- [Geotagging](https://github.com/jmlich/geotagging) - photography geotagging tool
+	- [GeoTools, the Java GIS toolkit download | SourceForge.net](https://sourceforge.net/projects/geotools/?source=directory)
+	- [[Google mapping]]
 	- [GPS Babel](https://www.gpsbabel.org/download.html) - geograpic logs convertor
 	- [[GRASS]]
-	- [[GeoDa]]
-	- Geosetter - photography geotagging tool
-	- [Geotagging](https://github.com/jmlich/geotagging) - photography geotagging tool
-	- Google Earth
 	- [MapBox Studio](https://www.mapbox.com/mapbox-studio/)
-	- MapWindow
-	- OpenJUMP GIS
+	- [MapWindow](https://www.mapwindow.org/)
+	- [OpenCV](https://opencv.org/)
+	- [[OpenJUMP]]
 	- [[QGIS]]
 	- [[QMapShack]]
 	- [SAGA GIS](https://saga-gis.sourceforge.io/en/index.html) - system for automated geoscientific analyses
 	- Shape Viewer
+	- [TatukGIS](https://www.tatukgis.com/Home.aspx)
+	- [uDig](http://udig.refractions.net/) - User friendly GIS
 	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml)
 - Hydraulics software
 	- [[EpaNET]]
@@ -34,6 +39,7 @@ This list is not exhaustive, rather picks most important ones.
 	- [GSTools](https://github.com/GeoStat-Framework/GSTools) (part of [Geostat framework](https://geostat-framework.org/))
 - [[Web-based GIS]]
 
+[27 Differences Between ArcGIS and QGIS - The Most Epic GIS Software Battle in GIS History - GIS Geography](https://gisgeography.com/qgis-arcgis-differences/)
 
 ## links
 
@@ -43,66 +49,49 @@ https://github.com/sacridini/Awesome-Geospatial
 Anything Geospatial [http://blog.gisuser.com/](http://blog.gisuser.com/)  
 GIS Area [http://hackercenters.blogspot.com/](http://hackercenters.blogspot.com/)  
 GIS Lounge [https://www.gislounge.com/gis-forums/](https://www.gislounge.com/gis-forums/)  
-Geoawesomeness [http://geoawesomeness.com/](http://geoawesomeness.com/)  
-Free GIS portal [http://freegis.fsv.cvut.cz/gwiki/Port%C3%A1l_FreeGIS](http://freegis.fsv.cvut.cz/gwiki/Port%C3%A1l_FreeGIS)  
-GIS seznam odkazů [http://oozp.upce.cz/gis4/GIS-odkazy.html](http://oozp.upce.cz/gis4/GIS-odkazy.html)  
-GIS Encyclopedia [http://wiki.gis.com/wiki/index.php/Main_Page](http://wiki.gis.com/wiki/index.php/Main_Page)  
-  
-[GeoData Public drive](https://mygeodata.cloud/drive/public#)  
+[Geoawesomeness - Blog and Community](https://geoawesomeness.com/)
+[FreeGIS portál](http://freegis.fsv.cvut.cz/gwiki/Port%C3%A1l_FreeGIS)
+[GIS odkazy](https://oozp.upce.cz/gis4/GIS-odkazy.html)
+[wiki.gis.com](http://wiki.gis.com/wiki/index.php/Main_Page)
 
 [Národní geoportál](https://geoportal.gov.cz/web/guest/home)
 [Mapový server české geologické služby](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace)  
 [Free Geodata CZ](http://freegis.fsv.cvut.cz/gwiki/FreeGeoDataCZ)  
 
+[Digital Social Science Center | Columbia University Libraries](https://library.columbia.edu/libraries/dssc.html)
 
-Digital Social Science Center [https://library.columbia.edu/locations/dssc.html](https://library.columbia.edu/locations/dssc.html)  
-Digital Attack Map [http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=15999&view=map](http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=15999&view=map)  
-Geonorge metadata katalog [http://www.geonorge.no/geonetwork/srv/no/main.home](http://www.geonorge.no/geonetwork/srv/no/main.home)  
-  
 [GeoData Lab](https://geodacenter.github.io/data-and-lab//)  
-  
-[Raster file formats for JS mapping](https://geoexamples.com/d3/2017/11/04/raster-file-formats.html)
 
-
-GIS enthusaist [https://github.com/jwasilgeo?tab=stars](https://github.com/jwasilgeo?tab=stars)
-
-
-Praha city spy map download [http://www.thespymap.com/](http://www.thespymap.com/)
-
-OpenSource GIS applications [https://www.gislounge.com/open-source-gis-applications/](https://www.gislounge.com/open-source-gis-applications/)  
-  
-Boundless GIS platform [https://boundlessgeo.com/boundless-gis-platform/](https://boundlessgeo.com/boundless-gis-platform/)  
+[GIS Live DVD - Wikipedia](https://en.wikipedia.org/wiki/GIS_Live_DVD)
+[Useful free GIS shapefile map tools | StatSilk](http://www.statsilk.com/maps/useful-free-gis-shapefile-map-tools)
+[Open Source GIS and Freeware GIS Applications - GIS Lounge](https://www.gislounge.com/open-source-gis-applications/)
+[GIS - Fedora Project Wiki](https://fedoraproject.org/wiki/GIS)
+[(99+) GIS AND OPEN SOURCE SOFTWARE FOR GIS EDUCATION project Kauri Kiiman | Kauri Kiiman - Academia.edu](https://www.academia.edu/7144689/GIS_AND_OPEN_SOURCE_SOFTWARE_FOR_GIS_EDUCATION_project_Kauri_Kiiman)
+[Geographic Information SystemsAlternative GIS Software](https://dit.markfoley.info/GIS/FOSS4G.html)
   
 CasCAD OSS [http://cascadoss.competterra.com/cascadoss.php?home_en](http://cascadoss.competterra.com/cascadoss.php?home_en)  
   
 Desktop GIS Linux [https://www.linuxjournal.com/content/desktop-gis-linux-introduction](https://www.linuxjournal.com/content/desktop-gis-linux-introduction)  
 Jaký GIS na Linuxu [http://www.abclinuxu.cz/zpravicky/jaky-gis-software-lze-na-linuxu-pouzivat](http://www.abclinuxu.cz/zpravicky/jaky-gis-software-lze-na-linuxu-pouzivat)  
 GIS on Ubuntu [http://les-ejk.cz/2009/11/ubuntu-gis-the-source-of-gis-for-you/](http://les-ejk.cz/2009/11/ubuntu-gis-the-source-of-gis-for-you/)  
-  
-Free Geography Tools [https://freegeographytools.com/](https://freegeographytools.com/)  
-  
-  
 Free GIS on Enterprise Linux [http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS](http://wiki.osgeo.org/wiki/Enterprise_Linux_GIS)  
-  
-Alternative GIS software presentation [https://dit.markfoley.info/GIS/FOSS4G.html](https://dit.markfoley.info/GIS/FOSS4G.html)  
-  
-Geospatial python [http://geospatialpython.com/](http://geospatialpython.com/)  
-  
+
+Free Geography Tools [https://freegeographytools.com/](https://freegeographytools.com/)  
+
 Geosprocket [http://geosprocket.blogspot.com/](http://geosprocket.blogspot.com/)  
-  
-JAVA GIS Toolkit [https://sourceforge.net/projects/geotools/?source=directory](https://sourceforge.net/projects/geotools/?source=directory)  
-  
-GIS and Opensource software for GIS [http://www.academia.edu/7144689/GIS_AND_OPEN_SOURCE_SOFTWARE_FOR_GIS_EDUCATION_project_Kauri_Kiiman](http://www.academia.edu/7144689/GIS_AND_OPEN_SOURCE_SOFTWARE_FOR_GIS_EDUCATION_project_Kauri_Kiiman)  
-  
+
 GISoftware [https://gisoftw.blogspot.com/](https://gisoftw.blogspot.com/)  
   
 Geonetwork Opensource [https://geonetwork-opensource.org/](https://geonetwork-opensource.org/)  
   
-Announcing MapD 4.0: Geospatial, Role-Based Permissions and Updates/Deletes [https://www.mapd.com/blog/announcing-mapd-4.0/](https://www.mapd.com/blog/announcing-mapd-4.0/)  
-  
-Python GDAL/OGR Cookbok [https://pcjericks.github.io/py-gdalogr-cookbook/](https://pcjericks.github.io/py-gdalogr-cookbook/)  
-Python GDAL/OGR [https://gis.stackexchange.com/questions/9553/installing-gdal-and-ogr-for-python](https://gis.stackexchange.com/questions/9553/installing-gdal-and-ogr-for-python)
 
+### Referrals
 
-### Side project: [[CZ mystic places]]
+- [jwasilgeo (Jacob Wasilkowski) / Starred](https://github.com/jwasilgeo?tab=stars)
+- [iNiKe (Galayko Nikita)](https://github.com/iNiKe) - tools creator
+	- [Ozi2Geotiff download | SourceForge.net](https://sourceforge.net/projects/ozi2geotiff/)
+	- [Ozi explorer maps to Geotiff - GeoData - GISarea - Geographic Information Science Forum](https://www.gisarea.com/forums/topic/1086-ozi-explorer-maps-to-geotiff/)
+[GTK DBF Editor](http://sdteffen.de/gtkdbfeditor/)
+
+### Side project: [[World places]]
 
