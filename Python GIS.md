@@ -1,15 +1,31 @@
+[15 Python Libraries for GIS and Mapping - GIS Geography](https://gisgeography.com/python-libraries-gis-mapping/)
+[Essential Python Geospatial Libraries](https://carsonfarmer.com/2013/07/essential-python-geo-libraries/)
+
+[GeospatialPython/Learn: Code and data samples from GeospatialPython.com and Books](https://github.com/GeospatialPython/Learn)
+
 ## Python GIS scripts:
 
-SHP support [https://github.com/GeospatialPython/pyshp](https://github.com/GeospatialPython/pyshp)  
-pyshp [https://pypi.org/project/pyshp/](https://pypi.org/project/pyshp/)  
-SHP > ASCII [http://gis.stackexchange.com/questions/7339/converting-shapefiles-to-text-ascii-files](http://gis.stackexchange.com/questions/7339/converting-shapefiles-to-text-ascii-files)  
-  
-python and GIS [https://www.e-education.psu.edu/geog485/book/export/html/59](https://www.e-education.psu.edu/geog485/book/export/html/59)  
-geoprocessing with python [http://www.gis.usu.edu/~chrisg/python/2009/](http://www.gis.usu.edu/~chrisg/python/2009/)  
-  
-Essential python libraries [http://carsonfarmer.com/2013/07/essential-python-geo-libraries/](http://carsonfarmer.com/2013/07/essential-python-geo-libraries/)
+[convert - Converting shapefiles to text (ASCII) files? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/7339/converting-shapefiles-to-text-ascii-files)
+[Using PyShp to create polygon shapefiles? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/119160/using-pyshp-to-create-polygon-shapefiles)
+
+## Lessons
+
+[Lessons | GEOG 485: GIS Programming and Software Development](https://www.e-education.psu.edu/geog485/node/169)
+
+[Geoprocessing with Python using Open Source GIS](https://www.gis.usu.edu/~chrisg/python/2009/)
 
 
 
   
 Geospatial python [http://geospatialpython.com/](http://geospatialpython.com/)  
+
+## pyshp
+
+[GeospatialPython/pyshp: This library reads and writes ESRI Shapefiles in pure Python.](https://github.com/GeospatialPython/pyshp)
+
+```python
+import shapefile as shp
+
+shapes = shp.Reader("shapefiles/blockgroups").shapes()
+points = shapes[0].points
+```

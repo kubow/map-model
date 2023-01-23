@@ -1,10 +1,12 @@
 # GIS based tools
 
+Best viewed with [Obsidian](https://obsidian.md/).
+
 [[Geographic Sources]] -  list of Geographic data formats, their storage and actual database.
 
-This list is not exhaustive, rather picks most important ones. [Geographic information system software - Wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system_software)
+This list is not exhaustive, rather picks most important [GIS software](https://en.wikipedia.org/wiki/Geographic_information_system_software)
 
-- Standalone applications
+- Standalone GIS applications
 	- [[Android GIS]] - section with software specifically for Android OS
 	- [[ArcGIS]]
 	- BT747 - utlimate log reader and converter
@@ -12,7 +14,6 @@ This list is not exhaustive, rather picks most important ones. [Geographic infor
 	- [[CloudCompare]]
 	- [[DivaGIS]]
 	- [[ETGeo Wizards]]
-	- [[GDAL]] - geospatial data abstraction library
 	- [[GeoDa]]
 	- [[Geosetter]] - photography geotagging tool
 	- [Geotagging](https://github.com/jmlich/geotagging) - photography geotagging tool
@@ -33,10 +34,23 @@ This list is not exhaustive, rather picks most important ones. [Geographic infor
 	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml)
 - Hydraulics software
 	- [[EpaNET]]
-	- [[Model]] (DHI Water System tooling)
-	- [[MIKE Software]]
+	- [[Deltares]]
+	- DHI Water System tooling
+		- [[Model]]
+		- [[DHI Products]]
+	- [Water Resources Software (USGS.gov)](https://water.usgs.gov/software/lists/alphabetical)
 - [[Python GIS]]
+	- [Folium visualization library](https://python-visualization.github.io/folium/quickstart.html)
+	- [[GDAL]] - geospatial data abstraction library
+	- [geemap](https://geemap.org/)
+	- [GeoPandas](https://geopandas.org/en/stable/)
 	- [GSTools](https://github.com/GeoStat-Framework/GSTools) (part of [Geostat framework](https://geostat-framework.org/))
+	- [ipyleaflet: Interactive maps in the Jupyter notebook](https://ipyleaflet.readthedocs.io/en/latest/)
+	- [lidar](https://lidar.gishub.org/)
+	- [pyproj · PyPI](https://pypi.org/project/pyproj/)
+	- [pyshp · PyPI](https://pypi.org/project/pyshp/)
+	- [Rasterio: access to geospatial raster data — rasterio 1.4dev documentation](https://rasterio.readthedocs.io/en/latest/index.html)
+	- [The Remote Sensing and GIS Software Library (RSGISLib) — RSGISLib](http://rsgislib.org/)
 - [[Web-based GIS]]
 
 [27 Differences Between ArcGIS and QGIS - The Most Epic GIS Software Battle in GIS History - GIS Geography](https://gisgeography.com/qgis-arcgis-differences/)
@@ -82,7 +96,7 @@ Geosprocket [http://geosprocket.blogspot.com/](http://geosprocket.blogspot.com/)
 
 GISoftware [https://gisoftw.blogspot.com/](https://gisoftw.blogspot.com/)  
   
-Geonetwork Opensource [https://geonetwork-opensource.org/](https://geonetwork-opensource.org/)  
+[Home — GeoNetwork opensource](https://geonetwork-opensource.org/)
   
 
 ### Referrals
