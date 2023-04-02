@@ -1,13 +1,14 @@
 [13 JS Libraries to create maps](https://www.hongkiat.com/blog/javascript-libraries-for-interactive-maps/)  
 
+- [[D3.js]]
 - [Digital Attack Map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=15999&view=map)
 - [[Geoserver]]
 - [[GIS Cloud]]
 - [GPS vehicle tracking and fleet management platform | GpsGate](https://gpsgate.com/)
 - [GPS Visualizer](https://www.gpsvisualizer.com/) - Online tool
-- [[Mapserver]]
-- [[D3.js]]
 - [[Leaflet.js]]
+- [MapQuest - Maps, Driving Directions, Live Traffic](https://www.mapquest.com/)
+- [[Mapserver]]
 - [[Mapbox]]
 - [[Openlayers]]
   

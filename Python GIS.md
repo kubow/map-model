@@ -5,8 +5,8 @@
 
 ## Python GIS scripts:
 
-[convert - Converting shapefiles to text (ASCII) files? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/7339/converting-shapefiles-to-text-ascii-files)
-[Using PyShp to create polygon shapefiles? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/119160/using-pyshp-to-create-polygon-shapefiles)
+[convert - Converting shapefiles to text (ASCII) files? - GIS Stack Exchange](https://gis.stackexchange.com/questions/7339/converting-shapefiles-to-text-ascii-files)
+[Using PyShp to create polygon shapefiles? - GIS Stack Exchange](https://gis.stackexchange.com/questions/119160/using-pyshp-to-create-polygon-shapefiles)
 
 ## Lessons
 

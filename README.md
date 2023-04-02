@@ -2,7 +2,7 @@
 
 Best viewed with [Obsidian](https://obsidian.md/).
 
-[[Geographic Sources]] -  list of Geographic data formats, their storage and actual database.
+[[Data]] -  list of Geographic data formats, their storage and actual database.
 
 This list is not exhaustive, rather picks most important [GIS software](https://en.wikipedia.org/wiki/Geographic_information_system_software)
 
@@ -39,6 +39,11 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 		- [[Model]]
 		- [[DHI Products]]
 	- [Water Resources Software (USGS.gov)](https://water.usgs.gov/software/lists/alphabetical)
+- Astronomy
+	- [3D Diagram of the Solar System - In-The-Sky.org](https://in-the-sky.org/solarsystem.php)
+	- [skyfielders/astronomy-notebooks: iPython Notebooks showing off NumPy, matplotlib, and our universe](https://github.com/skyfielders/astronomy-notebooks)
+	- [lulunac27 on CodePen](https://codepen.io/lulunac27/pens/popular)
+	- 
 - [[Python GIS]]
 	- [Folium visualization library](https://python-visualization.github.io/folium/quickstart.html)
 	- [[GDAL]] - geospatial data abstraction library
@@ -83,7 +88,7 @@ GIS Lounge [https://www.gislounge.com/gis-forums/](https://www.gislounge.com/gis
 [(99+) GIS AND OPEN SOURCE SOFTWARE FOR GIS EDUCATION project Kauri Kiiman | Kauri Kiiman - Academia.edu](https://www.academia.edu/7144689/GIS_AND_OPEN_SOURCE_SOFTWARE_FOR_GIS_EDUCATION_project_Kauri_Kiiman)
 [Geographic Information SystemsAlternative GIS Software](https://dit.markfoley.info/GIS/FOSS4G.html)
   
-CasCAD OSS [http://cascadoss.competterra.com/cascadoss.php?home_en](http://cascadoss.competterra.com/cascadoss.php?home_en)  
+[Compet-Terra Kft. - Cascadoss](http://cascadoss.competterra.com/cascadoss.php?home_en)
   
 Desktop GIS Linux [https://www.linuxjournal.com/content/desktop-gis-linux-introduction](https://www.linuxjournal.com/content/desktop-gis-linux-introduction)  
 Jaký GIS na Linuxu [http://www.abclinuxu.cz/zpravicky/jaky-gis-software-lze-na-linuxu-pouzivat](http://www.abclinuxu.cz/zpravicky/jaky-gis-software-lze-na-linuxu-pouzivat)  
