@@ -32,13 +32,13 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 	- [TatukGIS](https://www.tatukgis.com/Home.aspx)
 	- [uDig](http://udig.refractions.net/) - User friendly GIS
 	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml)
-- Hydraulics software
-	- [[EpaNET]]
-	- [[Deltares]]
-	- DHI Water System tooling
-		- [[Model]]
+- Network analysis software
+	- [[Water_Distribution_Model]]
+		- [[Deltares]]
 		- [[DHI Products]]
-	- [Water Resources Software (USGS.gov)](https://water.usgs.gov/software/lists/alphabetical)
+		- [[EpaNET]]
+	- [[NetworkX]]
+	- 
 - Astronomy
 	- [3D Diagram of the Solar System - In-The-Sky.org](https://in-the-sky.org/solarsystem.php)
 	- [skyfielders/astronomy-notebooks: iPython Notebooks showing off NumPy, matplotlib, and our universe](https://github.com/skyfielders/astronomy-notebooks)

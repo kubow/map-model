@@ -1,5 +1,6 @@
+[Water Resources Software (USGS.gov)](https://water.usgs.gov/software/lists/alphabetical)
 
-
+[USEPA/WNTR: An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.](https://github.com/USEPA/WNTR)
 
 
 ## _Model
