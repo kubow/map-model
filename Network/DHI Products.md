@@ -9,6 +9,8 @@
 [MIKE for Developers](https://www.mikepoweredbydhi.com/products/mike-for-developers)
 [DHI Developers (Internal)](https://dhi-developer-documentation.azurewebsites.net/)
 
+Water Distribution Tools based on MIKE URBAN (EPANET compatible) models. Used for process automating and delaing with MIKE URBAN models using ArcGIS Arcpy Scripting.
+
 ## MikeIPO
 
 We are now able to work with **JTSK East North in Mike IPO precisely**.  
