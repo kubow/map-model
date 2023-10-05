@@ -16,7 +16,7 @@ Geodata = data relevant to a location
 	- [[KML-type]]
 	- [[Shapefile]]
 	- [[SpatiaLite]]
-	- 
+	- [[Raster]]
 - [[PostGIS]] (universal holder)
 
 # Layer sources
