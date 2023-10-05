@@ -33,14 +33,15 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 	- [uDig](http://udig.refractions.net/) - User friendly GIS
 	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml)
 - Network analysis software
-	- [[Water_Distribution_Model]]
+	- [[Water_Related_Model]]
 		- [[Deltares]]
 		- [[DHI Products]]
 		- [[EpaNET]]
 	- [[NetworkX]]
-	- 
+	- [Global Watersheds](https://mghydro.com/watersheds/)
 - Astronomy
 	- [3D Diagram of the Solar System - In-The-Sky.org](https://in-the-sky.org/solarsystem.php)
+	- [3D Solar System Viewer | TheSkyLive.com](https://theskylive.com/3dsolarsystem)
 	- [skyfielders/astronomy-notebooks: iPython Notebooks showing off NumPy, matplotlib, and our universe](https://github.com/skyfielders/astronomy-notebooks)
 	- [lulunac27 on CodePen](https://codepen.io/lulunac27/pens/popular)
 	- 
@@ -107,6 +108,7 @@ GISoftware [https://gisoftw.blogspot.com/](https://gisoftw.blogspot.com/)
 ### Referrals
 
 - [jwasilgeo (Jacob Wasilkowski) / Starred](https://github.com/jwasilgeo?tab=stars)
+- [Mark Foley's DIT Lecture Notes](https://dit.markfoley.info/GIS/)
 - [iNiKe (Galayko Nikita)](https://github.com/iNiKe) - tools creator
 	- [Ozi2Geotiff download | SourceForge.net](https://sourceforge.net/projects/ozi2geotiff/)
 	- [Ozi explorer maps to Geotiff - GeoData - GISarea - Geographic Information Science Forum](https://www.gisarea.com/forums/topic/1086-ozi-explorer-maps-to-geotiff/)
