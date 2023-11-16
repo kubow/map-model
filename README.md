@@ -2,42 +2,42 @@
 
 Best viewed with [Obsidian](https://obsidian.md/).
 
-[[Data]] -  list of Geographic data formats, their storage and actual database.
+[Data](Data/Data.md) -  list of Geographic data formats, their storage and actual database.
 
 This list is not exhaustive, rather picks most important [GIS software](https://en.wikipedia.org/wiki/Geographic_information_system_software)
 
 - Standalone GIS applications
-	- [[Android GIS]] - section with software specifically for Android OS
-	- [[ArcGIS]]
+	- [Android GIS](Android/AndroidGIS.md) - section with software specifically for Android OS
+	- [ArcGIS](ArcGIS/ArcGIS.md)
 	- BT747 - utlimate log reader and converter
-	- [[CAD]] Software (only GIS related topics)
-	- [[CloudCompare]]
-	- [[DivaGIS]]
-	- [[ETGeo Wizards]]
-	- [[GeoDa]]
-	- [[Geosetter]] - photography geotagging tool
+	- [CAD](CAD.md) Software (only GIS related topics)
+	- [CloudCompare](CloudCompare/CloudCompare.md)
+	- [DivaGIS](DivaGIS/DivaGIS.md)
+	- [ETGeo Wizards](ETGeo/ETGeoWizards.md)
+	- [GeoDa](GeoDa/GeoDa.md)
+	- [Geosetter](Geosetter.md) - photography geotagging tool
 	- [Geotagging](https://github.com/jmlich/geotagging) - photography geotagging tool
 	- [GeoTools, the Java GIS toolkit download | SourceForge.net](https://sourceforge.net/projects/geotools/?source=directory)
-	- [[Google mapping]]
+	- [Google](Google/Google.md)
 	- [GPS Babel](https://www.gpsbabel.org/download.html) - geograpic logs convertor
-	- [[GRASS]]
-	- [MapBox Studio](https://www.mapbox.com/mapbox-studio/)
+	- [GRASS](GRASS/GRASS.md)
+	- [MapBox](MapBox/MapBox.md)
 	- [MapWindow](https://www.mapwindow.org/)
 	- [OpenCV](https://opencv.org/)
-	- [[OpenJUMP]]
-	- [[QGIS]]
-	- [[QMapShack]]
+	- [OpenJUMP](OpenJUMP.md)
+	- [QGIS](QGIS/QGIS.md)
+	- [QMapShack](QMapShack.md)
 	- [SAGA GIS](https://saga-gis.sourceforge.io/en/index.html) - system for automated geoscientific analyses
 	- Shape Viewer
 	- [TatukGIS](https://www.tatukgis.com/Home.aspx)
 	- [uDig](http://udig.refractions.net/) - User friendly GIS
 	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml)
 - Network analysis software
-	- [[Water_Related_Model]]
-		- [[Deltares]]
-		- [[DHI Products]]
-		- [[EpaNET]]
-	- [[NetworkX]]
+	- [Water_Related_Model](Network/Water_Related_Model.md)
+		- [Deltares](Network/Deltares.md)
+		- [DHI_Products](Network/DHI_Products.md)
+		- [EpaNET](Netwrok/EpaNET.md)
+	- [NetworkX](Network/NetworkX.md)
 	- [Global Watersheds](https://mghydro.com/watersheds/)
 - Astronomy
 	- [3D Diagram of the Solar System - In-The-Sky.org](https://in-the-sky.org/solarsystem.php)
@@ -45,9 +45,9 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 	- [skyfielders/astronomy-notebooks: iPython Notebooks showing off NumPy, matplotlib, and our universe](https://github.com/skyfielders/astronomy-notebooks)
 	- [lulunac27 on CodePen](https://codepen.io/lulunac27/pens/popular)
 	- 
-- [[Python GIS]]
+- [Python GIS](PythonGIS.md)
 	- [Folium visualization library](https://python-visualization.github.io/folium/quickstart.html)
-	- [[GDAL]] - geospatial data abstraction library
+	- [GDAL](GDAL.md) - geospatial data abstraction library
 	- [geemap](https://geemap.org/)
 	- [GeoPandas](https://geopandas.org/en/stable/)
 	- [GSTools](https://github.com/GeoStat-Framework/GSTools) (part of [Geostat framework](https://geostat-framework.org/))
@@ -57,7 +57,7 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 	- [pyshp · PyPI](https://pypi.org/project/pyshp/)
 	- [Rasterio: access to geospatial raster data — rasterio 1.4dev documentation](https://rasterio.readthedocs.io/en/latest/index.html)
 	- [The Remote Sensing and GIS Software Library (RSGISLib) — RSGISLib](http://rsgislib.org/)
-- [[Web-based GIS]]
+- [Web-based GIS](Web-based/WebGIS.md)
 
 [27 Differences Between ArcGIS and QGIS - The Most Epic GIS Software Battle in GIS History - GIS Geography](https://gisgeography.com/qgis-arcgis-differences/)
 

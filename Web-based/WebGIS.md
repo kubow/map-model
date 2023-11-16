@@ -9,7 +9,7 @@
 - [[Leaflet.js]]
 - [MapQuest - Maps, Driving Directions, Live Traffic](https://www.mapquest.com/)
 - [[Mapserver]]
-- [[Mapbox]]
+- [[Web-based/Mapbox]]
 - [[Openlayers]]
   
 [Local maps for offline HTML5 app (stackexchange.com)](https://gis.stackexchange.com/questions/18830/how-to-serve-local-maps-for-an-offline-html5-webmapping-app)  
