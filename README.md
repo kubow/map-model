@@ -1,7 +1,5 @@
 # GIS based tools
 
-Best viewed with [Obsidian](https://obsidian.md/).
-
 [Data](Data/Data.md) -  list of Geographic data formats, their storage and actual database.
 
 This list is not exhaustive, rather picks most important [GIS software](https://en.wikipedia.org/wiki/Geographic_information_system_software)
