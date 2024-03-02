@@ -59,6 +59,8 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 
 [27 Differences Between ArcGIS and QGIS - The Most Epic GIS Software Battle in GIS History - GIS Geography](https://gisgeography.com/qgis-arcgis-differences/)
 
+[djaiss/mapsicon: A free collection of maps for every country in the world, available in 11 sizes or in SVG.](https://github.com/djaiss/mapsicon)
+
 ## links
 
 https://gislab.utk.edu/resources/software/
