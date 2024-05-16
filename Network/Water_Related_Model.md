@@ -1,6 +1,18 @@
 [Water Resources Software (USGS.gov)](https://water.usgs.gov/software/lists/alphabetical)
 
-[USEPA/WNTR: An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.](https://github.com/USEPA/WNTR)
+- [Deltares](Network/Deltares.md)
+- [DHI_Products](Network/DHI_Products.md)
+- [EpaNET](./EPANET.md)
+
+Python solutions
+
+- [tylertrimble/viswaternet: A Python package for easy generation and customization of water distribution network visualizations.](https://github.com/tylertrimble/viswaternet)
+- [USEPA/WNTR: An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.](https://github.com/USEPA/WNTR)
+
+
+
+
+[On the uses of graph databases in water distribution systems](https://www.icwmm.org/Archive/2015-C024-20/on-the-uses-of-graph-databases-in-water-distribution-systems)
 
 
 ## Water Distribution Network
@@ -24,7 +36,7 @@
 	- [BAKALÁŘSKÁ PRÁCE (vut.cz)](https://www.vut.cz/www_base/zav_prace_soubor_verejne.php?file_id=75431)
 
 
-
+[gasiepgodoy/WDN-Models-and-Data-Sets: This repository contains various EPANET models of water distribution networks (WDNs), ready-to-use CSV data sets and MATLAB scripts to customize simulation parameters and generate your own data files.](https://github.com/gasiepgodoy/WDN-Models-and-Data-Sets)
 
 
 ## Best Practices

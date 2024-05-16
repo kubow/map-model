@@ -32,9 +32,6 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml)
 - Network analysis software
 	- [Water_Related_Model](Network/Water_Related_Model.md)
-		- [Deltares](Network/Deltares.md)
-		- [DHI_Products](Network/DHI_Products.md)
-		- [EpaNET](Netwrok/EpaNET.md)
 	- [NetworkX](Network/NetworkX.md)
 	- [Global Watersheds](https://mghydro.com/watersheds/)
 - Astronomy
