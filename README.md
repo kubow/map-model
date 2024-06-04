@@ -1,6 +1,6 @@
 # GIS based tools
 
-[Data](Data/Data.md) -  list of Geographic data formats, their storage and actual database.
+[Data](Data/README.md) -  list of Geographic data formats, their storage and actual database.
 
 This list is not exhaustive, rather picks most important [GIS software](https://en.wikipedia.org/wiki/Geographic_information_system_software)
 
@@ -9,6 +9,7 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 	- [ArcGIS](ArcGIS/ArcGIS.md)
 	- BT747 - utlimate log reader and converter
 	- [CAD](CAD.md) Software (only GIS related topics)
+	- [CleverMaps](CleverMaps/CleverMaps.md)
 	- [CloudCompare](CloudCompare/CloudCompare.md)
 	- [DivaGIS](DivaGIS/DivaGIS.md)
 	- [ETGeo Wizards](ETGeo/ETGeoWizards.md)
@@ -17,7 +18,7 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 	- [Geotagging](https://github.com/jmlich/geotagging) - photography geotagging tool
 	- [GeoTools, the Java GIS toolkit download | SourceForge.net](https://sourceforge.net/projects/geotools/?source=directory)
 	- [Google](Google/Google.md)
-	- [GPS Babel](https://www.gpsbabel.org/download.html) - geograpic logs convertor
+	- [GPS Babel](https://www.gpsbabel.org/download.html) - geographic logs convertor
 	- [GRASS](GRASS/GRASS.md)
 	- [MapBox](MapBox/MapBox.md)
 	- [MapWindow](https://www.mapwindow.org/)
