@@ -5,5 +5,6 @@
 - NetCDF
 - JSON (with encoded data)
 - (Compressed) Binary data
+- Lidar formats
 
 [OSSIM - OSGeo](https://www.osgeo.org/projects/ossim/) widly used image processing library

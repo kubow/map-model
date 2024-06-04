@@ -4,3 +4,5 @@ set of files:
 - .shx
 - .dbf
 
+Shapefile interesting_places
+- coordinate system WGS84

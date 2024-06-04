@@ -1,4 +1,10 @@
 
-- File Geodatabase
-- Personal Geodatabase (.mdb) - combatible with MS Access
+- File Geodatabase (.GDB) - files stored as shapefiles
+- Enterprise Geodatabase/ ArcSDE (Oracle, MSSQL, PostgreSQL, DB2)
+- MapBox (.MBTILES)
+- OGC Geopackage (.GPKG)
+- Personal Geodatabase (.MDB) - combatible with MS Access
+- [PostGIS](PostGIS/PostGIS.md) (PostgreSQL addon)
+- [SpatiaLite](SpatiaLite/SpatiaLite.md)
+
 
