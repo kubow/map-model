@@ -1,7 +1,13 @@
+#desktop #tool
+
 Translator library for raster and vector geospatial data formats.
 [GDAL — GDAL documentation](https://gdal.org/)
 
 [Programs — GDAL documentation](https://gdal.org/programs/index.html)
+
+[GDAL/OGR - Beginners Tutorial - YouTube](https://www.youtube.com/playlist?list=PLumZ7YQFbxIz2fZFYD-X7eYybGqLf3NVj)
+
+## Install
 
 [Installing GDAL and OGR for Python? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/9553/installing-gdal-and-ogr-for-python)
 

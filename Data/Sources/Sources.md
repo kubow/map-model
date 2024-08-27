@@ -19,17 +19,7 @@ Srovnání mapových zdrojů ČR [http://www.zememeric.cz/11-97/zabadmu.html](ht
 [Geonorge metadata katalog](http://www.geonorge.no/geonetwork/srv/no/main.home)
 
 
-## WMS
 
-- 
-- [Cenia WMS](http://geoportal.gov.cz/ArcGIS/services/CENIA/cenia_t_podklad/MapServer/WMSServer)
-
-WMS Download for future offline use [https://www.zimmi.cz/posts/tag/ogc.html](https://www.zimmi.cz/posts/tag/ogc.html)
-
-
-[GeoQuest](https://geoquest.gg/)
-
-[Tap - Tap water you can trust](https://findtap.com/)
 
 
 ## Mystic CZ

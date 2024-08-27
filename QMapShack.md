@@ -1,3 +1,5 @@
+#desktop
+
 Open Source map viewer
 
 https://github.com/Maproom/qmapshack

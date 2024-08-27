@@ -1,3 +1,5 @@
+#desktop 
+
 Open source GIS written in JAVA, focuses on speed - uses memory
 [OpenJUMP GIS](http://openjump.org/)
 

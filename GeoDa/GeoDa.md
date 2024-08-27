@@ -1,3 +1,4 @@
+#server #analytics 
 
 [Software Downloads | Spatial@UChicago | The University of Chicago](https://spatial.uchicago.edu/software)  
   

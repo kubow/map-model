@@ -1,3 +1,5 @@
+#data-type
+
 Geodata = data relevant to a location
 
 - [Coordinates](Coordinates.md)
@@ -21,7 +23,7 @@ Geodata = data relevant to a location
 		- [KML-type](Flat/XML/KML-type.md)
 		- GML
 		- OSM XML
-- GeoArrow
+- [GeoArrow](Flat/GeoArrow/GeoArrow.md)
 - [Geodatabase](Geodatabase/Geodatabase.md)
 - [Shapefile](Shapefile/Shapefile.md)
 	- IDRISI Vector (VCT)

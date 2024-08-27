@@ -3,34 +3,47 @@
 [Data](Data/README.md) -  list of Geographic data formats, their storage and actual database.
 
 This list is not exhaustive, rather picks most important [GIS software](https://en.wikipedia.org/wiki/Geographic_information_system_software)
+It is also mixed with javascript libraries to create maps ([13 JS Libraries to create maps](https://www.hongkiat.com/blog/javascript-libraries-for-interactive-maps/))
 
-- Standalone GIS applications
+- GIS applications / libraries
 	- [Android GIS](Android/AndroidGIS.md) - section with software specifically for Android OS
 	- [ArcGIS](ArcGIS/ArcGIS.md)
 	- BT747 - utlimate log reader and converter
 	- [CAD](CAD.md) Software (only GIS related topics)
-	- [CleverMaps](CleverMaps/CleverMaps.md)
+	- [Carto](./Carto.Carto.md) #cloud #analytics 
+	- [CesiumJS – Cesium](https://cesium.com/platform/cesiumjs/) (3D globes)
+	- [CleverMaps](CleverMaps/CleverMaps.md) #cloud 
 	- [CloudCompare](CloudCompare/CloudCompare.md)
-	- [DivaGIS](DivaGIS/DivaGIS.md)
+	- [D3.js](./D3/D3.js.md) #javascript 
+	- [DivaGIS](DivaGIS/DivaGIS.md) #desktop 
 	- [ETGeo Wizards](ETGeo/ETGeoWizards.md)
 	- [GeoDa](GeoDa/GeoDa.md)
+	- [Geoserver](./Geoserver/Geoserver.md) #server 
 	- [Geosetter](Geosetter.md) - photography geotagging tool
 	- [Geotagging](https://github.com/jmlich/geotagging) - photography geotagging tool
-	- [GeoTools, the Java GIS toolkit download | SourceForge.net](https://sourceforge.net/projects/geotools/?source=directory)
-	- [Google](Google/Google.md)
-	- [GPS Babel](https://www.gpsbabel.org/download.html) - geographic logs convertor
-	- [GRASS](GRASS/GRASS.md)
-	- [MapBox](MapBox/MapBox.md)
+	- [GeoTools, the Java GIS toolkit download | SourceForge.net](https://sourceforge.net/projects/geotools/?source=directory) #desktop #tool 
+	- [GIS Cloud](./GIS%20Cloud.md)
+	- [Google](Google/Google.md) #cloud #maps 
+	- [GPS Babel](https://www.gpsbabel.org/download.html) #desktop #tool 
+	- [GPSGate | GPS vehicle tracking and fleet management platform](https://gpsgate.com/)
+	- [GPS Visualizer](https://www.gpsvisualizer.com/) - #cloud #tool 
+	- [GRASS](GRASS/GRASS.md) (OSGeo) #desktop #tool 
+	- [Leaflet.js](./Leaflet.js.md) #javascript 
+	- [MapBox](MapBox/MapBox.md) #cloud #javascript 
+	- [MapLibre](./MapLibre/MapLibre.md)
+	- [Mapserver](./MapServer/Mapserver.md)  #server 
 	- [MapWindow](https://www.mapwindow.org/)
 	- [OpenCV](https://opencv.org/)
-	- [OpenJUMP](OpenJUMP.md)
-	- [QGIS](QGIS/QGIS.md)
+	- [OpenJUMP](OpenJUMP.md) #desktop 
+	- [Openlayers](./OpenLayers/Openlayers.md) #javascript
+	- OpenStreetMaps #cloud #maps
+	- [QGIS](QGIS/QGIS.md) #desktop
 	- [QMapShack](QMapShack.md)
 	- [SAGA GIS](https://saga-gis.sourceforge.io/en/index.html) - system for automated geoscientific analyses
 	- Shape Viewer
 	- [TatukGIS](https://www.tatukgis.com/Home.aspx)
 	- [uDig](http://udig.refractions.net/) - User friendly GIS
-	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml)
+	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml) #desktop #tool 
 - Network analysis software
 	- [Water_Related_Model](Network/Water_Related_Model.md)
 	- [NetworkX](Network/NetworkX.md)
@@ -53,13 +66,16 @@ This list is not exhaustive, rather picks most important [GIS software](https://
 	- [pyshp · PyPI](https://pypi.org/project/pyshp/)
 	- [Rasterio: access to geospatial raster data — rasterio 1.4dev documentation](https://rasterio.readthedocs.io/en/latest/index.html)
 	- [The Remote Sensing and GIS Software Library (RSGISLib) — RSGISLib](http://rsgislib.org/)
-- [Web-based GIS](Web-based/WebGIS.md)
+
+[Web-based GIS](Web-based/WebGIS.md)
+
+
+
+## links
 
 [27 Differences Between ArcGIS and QGIS - The Most Epic GIS Software Battle in GIS History - GIS Geography](https://gisgeography.com/qgis-arcgis-differences/)
 
 [djaiss/mapsicon: A free collection of maps for every country in the world, available in 11 sizes or in SVG.](https://github.com/djaiss/mapsicon)
-
-## links
 
 https://gislab.utk.edu/resources/software/
 https://github.com/sacridini/Awesome-Geospatial
@@ -72,6 +88,8 @@ GIS Lounge [https://www.gislounge.com/gis-forums/](https://www.gislounge.com/gis
 [GIS odkazy](https://oozp.upce.cz/gis4/GIS-odkazy.html)
 [wiki.gis.com](http://wiki.gis.com/wiki/index.php/Main_Page)
 
+- [Digital Attack Map](https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=15999&view=map)
+- [MapQuest - Maps, Driving Directions, Live Traffic](https://www.mapquest.com/)
 [Národní geoportál](https://geoportal.gov.cz/web/guest/home)
 [Mapový server české geologické služby](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace)  
 [Free Geodata CZ](http://freegis.fsv.cvut.cz/gwiki/FreeGeoDataCZ)  
@@ -101,7 +119,36 @@ Geosprocket [http://geosprocket.blogspot.com/](http://geosprocket.blogspot.com/)
 GISoftware [https://gisoftw.blogspot.com/](https://gisoftw.blogspot.com/)  
   
 [Home — GeoNetwork opensource](https://geonetwork-opensource.org/)
+
   
+[Local maps for offline HTML5 app (stackexchange.com)](https://gis.stackexchange.com/questions/18830/how-to-serve-local-maps-for-an-offline-html5-webmapping-app)  
+[Javascript web API (stackexchange.com)](https://gis.stackexchange.com/questions/8897/what-is-a-good-javascript-web-api-preferably-open-for-building-web-maps-that-r?rq=1)
+
+
+  
+CartoWeb [http://cartoweb.org/](http://cartoweb.org/)  
+
+  
+MapGuide OpenSource [http://mapguide.osgeo.org/](http://mapguide.osgeo.org/)  
+
+
+TileMill [https://tilemill-project.github.io/tilemill/](https://tilemill-project.github.io/tilemill/)  
+  
+D3 / Leaflet /Google examples [https://bl.ocks.org/mapsam](https://bl.ocks.org/mapsam)  
+  
+Introducing Web SQL Databases (HTML5) [http://html5doctor.com/introducing-web-sql-databases/](http://html5doctor.com/introducing-web-sql-databases/)  
+Building a map server [http://www.axismaps.com/blog/2012/01/dont-panic-an-absolute-beginners-guide-to-building-a-map-server/](http://www.axismaps.com/blog/2012/01/dont-panic-an-absolute-beginners-guide-to-building-a-map-server/)  
+  
+Visual Web Apps [https://medium.com/better-programming/topojson-geojson-and-projections-developing-interactive-map-visuals-for-web-apps-79e2d50abb19](https://medium.com/better-programming/topojson-geojson-and-projections-developing-interactive-map-visuals-for-web-apps-79e2d50abb19)  
+  
+[Wrapping Google Maps With Polymer Elements (divshot.com)](https://divshot.com/blog/web-components/wrapping-google-maps-with-polymer-elements/)  
+[polymer - creating a google map with marker using web-component - Stack Overflow](https://stackoverflow.com/questions/25129515/creating-a-google-map-with-marker-using-web-component)  
+  
+offline maps web based  
+[http://gis.stackexchange.com/questions/18830/how-to-serve-local-maps-for-an-offline-html5-webmapping-app](http://gis.stackexchange.com/questions/18830/how-to-serve-local-maps-for-an-offline-html5-webmapping-app)  
+[http://gis.stackexchange.com/questions/23720/simple-way-to-have-an-offline-web-based-map](http://gis.stackexchange.com/questions/23720/simple-way-to-have-an-offline-web-based-map)  
+[http://gis.stackexchange.com/questions/42069/what-is-the-easiest-way-to-let-a-user-upload-overlayers-to-openlayers-geoserver](http://gis.stackexchange.com/questions/42069/what-is-the-easiest-way-to-let-a-user-upload-overlayers-to-openlayers-geoserver)  
+[https://geonet.esri.com/thread/93671](https://geonet.esri.com/thread/93671)  
 
 ### Referrals
 
@@ -112,5 +159,5 @@ GISoftware [https://gisoftw.blogspot.com/](https://gisoftw.blogspot.com/)
 	- [Ozi explorer maps to Geotiff - GeoData - GISarea - Geographic Information Science Forum](https://www.gisarea.com/forums/topic/1086-ozi-explorer-maps-to-geotiff/)
 [GTK DBF Editor](http://sdteffen.de/gtkdbfeditor/)
 
-### Side project: [[World places]]
+### Side project: [World places](./Data/Sources/Sources.md)
 

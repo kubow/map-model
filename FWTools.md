@@ -1,3 +1,5 @@
+#desktop #tool 
+
 A set of open source GIS binaries written by Frank Warmerdam
 [FWTools: Open Source GIS/RS Binary Kit](http://fwtools.maptools.org/)
 

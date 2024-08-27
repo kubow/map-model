@@ -1,3 +1,5 @@
+#desktop
+
 A Free and Open Source Geographic Information System
 [Welcome to the QGIS project!](https://qgis.org/en/site/)
 
