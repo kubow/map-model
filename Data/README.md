@@ -3,9 +3,8 @@
 Geodata = data relevant to a location
 
 - [Coordinates](Coordinates.md)
-- [GeoCoding](GeoCoding.md)
+- [GeoCoding](Process/GeoCoding.md)
 - [Sources](Sources/Sources.md)
-- 
 
 [GIS file formats - Wikipedia](https://en.wikipedia.org/wiki/GIS_file_formats)
 [The Ultimate List of GIS Formats and Geospatial File Extensions - GIS Geography](https://gisgeography.com/gis-formats/)
@@ -24,14 +23,14 @@ Geodata = data relevant to a location
 		- GML
 		- OSM XML
 - [GeoArrow](Flat/GeoArrow/GeoArrow.md)
-- [Geodatabase](Geodatabase/Geodatabase.md)
-- [Shapefile](Shapefile/Shapefile.md)
+- [Geodatabase](Geodatabase.md)
+- [Shapefile](Shapefile.md)
 	- IDRISI Vector (VCT)
 	- MapInfo (TAB/DAT)
 
 # Raster Formats
 
-- [Raster](Raster/Raster.md) formats.
+- [Raster](Raster.md) formats.
 
 
   
