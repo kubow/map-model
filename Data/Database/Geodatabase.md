@@ -4,7 +4,7 @@
 - MapBox (.MBTILES)
 - OGC Geopackage (.GPKG)
 - Personal Geodatabase (.MDB) - combatible with MS Access
-- [PostGIS](PostGIS/PostGIS.md) (PostgreSQL addon)
-- [SpatiaLite](SpatiaLite/SpatiaLite.md)
+- [PostGIS](PostGIS.md) (PostgreSQL addon)
+- [SpatiaLite](SpatiaLite.md)
 
 
