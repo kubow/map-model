@@ -17,3 +17,9 @@ A Free and Open Source Geographic Information System
 [planetfederal/qgis-geoserver-plugin (github.com)](https://github.com/planetfederal/qgis-geoserver-plugin)
 [QGIS plugin to publish to geoserver - Stack Overflow](https://stackoverflow.com/questions/19803107/qgis-plugin-to-publish-to-geoserver)
 [Publishing QGIS project on GeoServer? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/155228/publishing-qgis-project-on-geoserver)
+
+
+## Editing
+
+[field calculator - How to fill the column in attribute table with same values in QGIS? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/142967/how-to-fill-the-column-in-attribute-table-with-same-values-in-qgis)
+
