@@ -7,26 +7,30 @@ It is also mixed with javascript libraries to create maps ([13 JS Libraries to c
 
 - GIS applications / libraries
 	- [Android GIS](Android/AndroidGIS.md) - section with software specifically for Android OS
-	- [ArcGIS](ArcGIS/ArcGIS.md)
-	- BT747 - utlimate log reader and converter
+	- [ArcGIS](ArcGIS/ArcGIS.md) #desktop #cloud 
+	- BT747 (log) #desktop #tool 
 	- [CAD](CAD.md) Software (only GIS related topics)
 	- [Carto](./Carto.Carto.md) #cloud #analytics 
-	- [CesiumJS – Cesium](https://cesium.com/platform/cesiumjs/) (3D globes)
-	- [CleverMaps](CleverMaps/CleverMaps.md) #cloud 
-	- [CloudCompare](CloudCompare/CloudCompare.md)
+	- [CesiumJS – Cesium](https://cesium.com/platform/cesiumjs/) (3D globes) #javascript 
+	- [CleverMaps](CleverMaps/CleverMaps.md) #cloud #analytics 
+	- [CloudCompare](CloudCompare/CloudCompare.md) #cloud 
 	- [D3.js](./D3/D3.js.md) #javascript 
 	- [DivaGIS](DivaGIS/DivaGIS.md) #desktop 
-	- [ETGeo Wizards](ETGeo/ETGeoWizards.md)
-	- [GeoDa](GeoDa/GeoDa.md)
+	- [ETGeo Wizards](ETGeo/ETGeoWizards.md) #desktop #tool 
+	- [GeoDa](GeoDa/GeoDa.md) #server #analytics 
 	- [Geoserver](./Geoserver/Geoserver.md) #server 
 	- [Geosetter](Geosetter.md) - photography geotagging tool
 	- [Geotagging](https://github.com/jmlich/geotagging) - photography geotagging tool
 	- [GeoTools, the Java GIS toolkit download | SourceForge.net](https://sourceforge.net/projects/geotools/?source=directory) #desktop #tool 
 	- [GIS Cloud](./GIS%20Cloud.md)
 	- [Google](Google/Google.md) #cloud #maps 
-	- [GPS Babel](https://www.gpsbabel.org/download.html) #desktop #tool 
-	- [GPSGate | GPS vehicle tracking and fleet management platform](https://gpsgate.com/)
-	- [GPS Visualizer](https://www.gpsvisualizer.com/) - #cloud #tool 
+	- GPS tools
+		- [GPS Babel](https://www.gpsbabel.org/download.html) #desktop #tool 
+		- [GPSGate | GPS vehicle tracking and fleet management platform](https://gpsgate.com/)
+		- GPSPrune
+		- GPXSee
+		- [GPS Visualizer](https://www.gpsvisualizer.com/) - #cloud #tool 
+		- Viking
 	- [GRASS](GRASS/GRASS.md) (OSGeo) #desktop #tool 
 	- [Leaflet.js](./Leaflet.js.md) #javascript 
 	- [MapBox](MapBox/MapBox.md) #cloud #javascript 
