@@ -2,8 +2,14 @@
 
 [Google Maps vs. Waze: Which One Is Really Better?](https://www.howtogeek.com/349022/google-maps-vs.-waze-which-one-is-really-better/)
 
+## Google maps
 
-## Google Streetview
+[Wrapping Google Maps With Polymer Elements](https://divshot.com/blog/web-components/wrapping-google-maps-with-polymer-elements/)
+
+## Google Earth
+[geemap](https://geemap.org/)
+
+## Google StreetView
 
   
 Permissions on imagery [https://www.google.com/permissions/geoguidelines.html#streetview](https://www.google.com/permissions/geoguidelines.html#streetview)  
