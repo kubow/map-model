@@ -23,6 +23,7 @@
 
 
 ## ArcPy
+[What is ArcPy?—ArcGIS Pro | Documentation](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm)
 [ArcPy ArcEditor](https://gisnuts.com/terra/blog/2014/05/09/arcpydaeditor-trialsandtribulations)
 [ArcPy Café | Get all your ArcGIS Python Recipes here!](https://arcpy.wordpress.com/)
 [ArcGIS Code Sharing](https://codesharing.arcgis.com/?dbid=14729)

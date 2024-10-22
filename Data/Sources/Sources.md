@@ -18,7 +18,7 @@ Srovnání mapových zdrojů ČR [http://www.zememeric.cz/11-97/zabadmu.html](ht
 [Micka Metadatový katalog](https://micka.cenia.cz/)  
 [Geonorge metadata katalog](http://www.geonorge.no/geonetwork/srv/no/main.home)
 
-
+[djaiss/mapsicon: A free collection of maps for every country in the world, available in 11 sizes or in SVG.](https://github.com/djaiss/mapsicon)
 
 
 

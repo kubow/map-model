@@ -5,9 +5,9 @@ GeoJSON specification [https://geojson.org/](https://geojson.org/)
 TopoJSON is an extension of GeoJSON that encodes topology.  
 Geometries transferred to ARCS (similar as MapShaper or ArcInfo)  
 [Home · topojson/topojson Wiki](https://github.com/topojson/topojson/wiki)
-  
-GeoJSON, TopoJSON & Projections [https://medium.com/better-programming/topojson-geojson-and-projections-developing-interactive-map-visuals-for-web-apps-79e2d50abb19](https://medium.com/better-programming/topojson-geojson-and-projections-developing-interactive-map-visuals-for-web-apps-79e2d50abb19)  
-  
+
+[TopoJSON, GeoJSON, and Projections: Developing Interactive Map Visuals for Web Apps | by Griffin Poole | Better Programming](https://betterprogramming.pub/topojson-geojson-and-projections-developing-interactive-map-visuals-for-web-apps-79e2d50abb19)
+
 [javascript - Variable Polyline Weight with GEOJSON in Leaflet - Stack Overflow](https://stackoverflow.com/questions/29801669/variable-polyline-weight-with-geojson-in-leaflet)  
   
   
