@@ -7,6 +7,6 @@
 - PySAL spreg API  
 - PySAL Access Package  
   
-[GeoDa Data and Lab (geodacenter.github.io)](https://geodacenter.github.io/data-and-lab//)  
-  
+[GeoDa Data and Lab (geodacenter.github.io)](https://geodacenter.github.io/data-and-lab/) 
+
 [GeoDa on Github (geodacenter.github.io)](https://geodacenter.github.io/)
