@@ -5,6 +5,7 @@ Geodata = data relevant to a location
 - [Coordinates](Coordinates.md)
 - [GeoCoding](Process/GeoCoding.md)
 - [Sources](Sources/Sources.md)
+- [Datasets](Sets.md)
 
 [GIS file formats - Wikipedia](https://en.wikipedia.org/wiki/GIS_file_formats)
 [The Ultimate List of GIS Formats and Geospatial File Extensions - GIS Geography](https://gisgeography.com/gis-formats/)
