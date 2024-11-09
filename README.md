@@ -47,13 +47,15 @@ Inspirations:
 	- [lidar](https://lidar.gishub.org/) #raster #tool
 	- [MapBox](MapBox/MapBox.md) #cloud #javascript 
 	- [MapGuide Open Source - OSGeo](https://www.osgeo.org/projects/mapguide-open-source/) #tool
-	- [MapLibre](./MapLibre/MapLibre.md)
-	- [Mapserver](./MapServer/Mapserver.md)  #server 
+	- [MapLibre](./MapLibre/MapLibre.md) #server #javascript 
+	- [MapServer](./MapServer/Mapserver.md)  #server 
+	- [MapTiler](./MapTiler.md) #cloud #javascript 
 	- [MapWindow](https://www.mapwindow.org/)
 	- [OpenCV](https://opencv.org/)
 	- [OpenJUMP](OpenJUMP.md) #desktop 
 	- [Openlayers](./OpenLayers/Openlayers.md) #javascript
 	- OpenStreetMaps #cloud #maps
+		- [planetiler: Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast](https://github.com/onthegomap/planetiler)
 		- [openstreetmap - Simple way to have an offline web based map? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/23720/simple-way-to-have-an-offline-web-based-map)  
 	- [Orfeo ToolBox](https://www.orfeo-toolbox.org/) #tool 
 	- [PROJ](https://proj.org/en/9.5/)  #transformation #tool
@@ -65,11 +67,12 @@ Inspirations:
 	- [QMapShack](QMapShack.md)
 	- [SAGA GIS](https://saga-gis.sourceforge.io/en/index.html) - system for automated geoscientific analyses
 	- Shape Viewer
+	- [Shapely — Shapely 2.0.6 documentation](https://shapely.readthedocs.io/en/stable/)
 	- [TatukGIS](https://www.tatukgis.com/Home.aspx)
 	- [TileMill | TileMill](https://tilemill-project.github.io/tilemill/)
 	- [uDig](http://udig.refractions.net/) - User friendly GIS
 	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml) #desktop #tool 
-- Specific tool set
+- Specific tool sets
 	- Network analysis software
 		- [Water_Related_Model](Network/Water_Related_Model.md)
 		- [NetworkX](Network/NetworkX.md)
