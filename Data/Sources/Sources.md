@@ -1,5 +1,5 @@
-- [Mapové zdroje](.Sources_CZ.md)
-
+- [Mapové zdroje](./Sources_CZ.md)
+- [WMS layers](./WMS.md)
 
 ## General Geographic Sources
 

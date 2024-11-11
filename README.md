@@ -13,7 +13,7 @@ Inspirations:
 	- [Android GIS](Android/AndroidGIS.md) - section with software specifically for Android OS
 	- BT747 (log) #desktop #tool 
 	- [CAD](CAD.md) Software (only GIS related topics) #desktop 
-	- [Carto](./Carto.Carto.md) #cloud #analytics 
+	- [Carto](./Carto/Carto.md) #cloud #analytics 
 	- [Cartopy](https://scitools.org.uk/cartopy/docs/latest/)
 	- [CesiumJS – Cesium](https://cesium.com/platform/cesiumjs/) (3D globes) #javascript 
 	- [CleverMaps](CleverMaps/CleverMaps.md) #cloud #analytics 
@@ -42,22 +42,24 @@ Inspirations:
 		- Viking
 	- [GSTools](https://github.com/GeoStat-Framework/GSTools) (part of [Geostat framework](https://geostat-framework.org/))
 	- [GRASS](GRASS/GRASS.md) (OSGeo) #desktop #tool 
-	- [Leaflet.js](./Leaflet.js.md) #javascript 
+	- [Leaflet.js](./Leaflet/Leaflet.js.md) #javascript 
 		- [ipyleaflet: Interactive maps in the Jupyter notebook](https://ipyleaflet.readthedocs.io/en/latest/) #python 
 	- [lidar](https://lidar.gishub.org/) #raster #tool
-	- [MapBox](MapBox/MapBox.md) #cloud #javascript 
+	- [MapBox](MapBox/MapBox.md) #cloud #javascript #tileset 
 	- [MapGuide Open Source - OSGeo](https://www.osgeo.org/projects/mapguide-open-source/) #tool
 	- [MapLibre](./MapLibre/MapLibre.md) #server #javascript 
 	- [MapServer](./MapServer/Mapserver.md)  #server 
-	- [MapTiler](./MapTiler.md) #cloud #javascript 
+	- [MapTiler](./MapTiler.md) #cloud #javascript #tileset
 	- [MapWindow](https://www.mapwindow.org/)
+	- [MBTiles](./MBTiles/MBTiles.md) #tileset
 	- [OpenCV](https://opencv.org/)
 	- [OpenJUMP](OpenJUMP.md) #desktop 
 	- [Openlayers](./OpenLayers/Openlayers.md) #javascript
-	- OpenStreetMaps #cloud #maps
+	- OpenStreetMaps #cloud #maps #tileset 
 		- [planetiler: Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast](https://github.com/onthegomap/planetiler)
 		- [openstreetmap - Simple way to have an offline web based map? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/23720/simple-way-to-have-an-offline-web-based-map)  
 	- [Orfeo ToolBox](https://www.orfeo-toolbox.org/) #tool 
+	- [PMTiles](./PMTiles/PMTiles.md) #tileset
 	- [PROJ](https://proj.org/en/9.5/)  #transformation #tool
 	- [pyproj · PyPI](https://pypi.org/project/pyproj/)
 	- [pyshp](./pyshp.md)
