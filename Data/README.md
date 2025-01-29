@@ -31,7 +31,7 @@ Geodata = data relevant to a location
 
 # Raster Formats
 
-- [Raster](Raster.md) formats.
+- [Raster](Raster/Raster.md) formats.
 
 
   
