@@ -1,0 +1,51 @@
+Dask/Dask.md
+  s_69856bf6847942::t_564cde46a963fd 1-14
+Data/Database/GeoPackage/GeoPackage.md
+  s_69856bf6847942::t_0920b19fc5322b 1-15
+README.md
+  s_69856bf6847942::t_564cde46a963fd 21-22,24,26-27,50-51,69-70,72,76-77,81,85,90,92-93,96
+  s_69856bf6847942::t_74c807f8827a4c 177
+  s_69856bf6847942::t_76674408606582 59
+  s_69856bf6847942::t_a9599471aecf1c 73-74
+Data/Catalog/STAC/STAC.md
+  s_69856bf6847942::t_564cde46a963fd 1-15
+Data/Catalog/JackDaw/JackDaw.md
+  s_69856bf6847942::t_0920b19fc5322b 1-11
+Data/Database/Geodatabase.md
+  s_69856bf6847942::t_c8fb806db7bbb9 5
+  s_69856bf6847942::t_564cde46a963fd 7-9
+Data/README.md
+  s_69856bf6847942::t_76674408606582 11,48-54
+  s_69856bf6847942::t_b02b905fb53f1a 31
+  s_69856bf6847942::t_8879ece5fdcfda 19
+  s_69856bf6847942::t_99b45165fb9d97 37
+  s_69856bf6847942::t_564cde46a963fd 30,35-36,38,40-42,46-47,55-58
+  s_69856bf6847942::t_c8fb806db7bbb9 9-10,39,59-63
+COPC/COPC.md
+  s_69856bf6847942::t_564cde46a963fd 1-14
+Data/Catalog/README.md
+  s_69856bf6847942::t_0920b19fc5322b 1-20
+Data/Database/PostGIS.md
+  s_69856bf6847942::t_99b45165fb9d97 1-115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5082819d75f8b68e0ebe1caf4ab69bdebddf4db4",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_69856bf6847942": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9e61-a594-7172-b505-154cf6f9d901",
+        "model": "gpt-5.5"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
