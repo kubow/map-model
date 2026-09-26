@@ -1,0 +1,32 @@
+Data/Flat/Cannon/Zlin/N1202250.LOG
+  h_0907ec034f4a17 1-85
+Data/Flat/Cannon/Zlin/N1202251.LOG
+  h_0907ec034f4a17 1-127
+Data/Flat/Cannon/Zlin/NCCONLST.LST
+  h_0907ec034f4a17 1-80
+Data/Flat/Cannon/Zlin/NCCONLST_new.LST
+  h_0907ec034f4a17 1-128
+Data/Flat/Cannon/Zlin/NCGPSLST.LST
+  h_0907ec034f4a17 1-4110
+Data/Flat/Cannon/Zlin/NCGPSLST_new.LST
+  h_0907ec034f4a17 1-4545
+Data/Flat/Cannon/Zlin/NCSORLST.LST
+  h_0907ec034f4a17 1-4557
+Data/Flat/Cannon/pisek/process/bod.geojson
+  h_0907ec034f4a17 1-45
+Data/Flat/Cannon/pisek/process/point.csv
+  h_0907ec034f4a17 1-77
+Data/Flat/Cannon/pisek/process/point_NE.csv
+  h_0907ec034f4a17 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bc0bd1bd39fd0a8b02a35e58358336e04d507def",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
