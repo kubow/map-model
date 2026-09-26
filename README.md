@@ -18,8 +18,13 @@ Inspirations:
 	- [CesiumJS – Cesium](https://cesium.com/platform/cesiumjs/) (3D globes) #javascript 
 	- [CleverMaps](CleverMaps/CleverMaps.md) #cloud #analytics 
 	- [CloudCompare](CloudCompare/CloudCompare.md) #cloud 
+	- [COPC](./COPC/COPC.md) #point-cloud #format #cloud-native
+	- [Dask](./Dask/Dask.md) #python #analytics #parallel
 	- [D3.js](./D3/D3.js.md) #javascript 
+	- [deck.gl](./deck.gl/deck.gl.md) #javascript #visualization #webgl
 	- [DivaGIS](DivaGIS/DivaGIS.md) #desktop 
+	- [DuckDB Spatial](./DuckDB/DuckDB%20Spatial.md) #database #analytics #tool
+	- [Entwine](./Entwine/Entwine.md) #point-cloud #tileset #tool
 	- [ESRI](https://www.esri.com/en-us/home)[ArcGIS](ArcGIS/ArcGIS.md) #desktop #cloud 
 	- [ETGeo Wizards](ETGeo/ETGeoWizards.md) #desktop #tool 
 	- [Folium visualization](https://python-visualization.github.io/folium/quickstart.html) #python
@@ -42,6 +47,8 @@ Inspirations:
 		- Viking
 	- [GSTools](https://github.com/GeoStat-Framework/GSTools) (part of [Geostat framework](https://geostat-framework.org/))
 	- [GRASS](GRASS/GRASS.md) (OSGeo) #desktop #tool 
+	- [H3](./H3/H3.md) #indexing #analytics #grid
+	- [kepler.gl](./kepler.gl/kepler.gl.md) #javascript #visualization #analytics
 	- [Leaflet.js](./Leaflet/Leaflet.js.md) #javascript 
 		- [ipyleaflet: Interactive maps in the Jupyter notebook](https://ipyleaflet.readthedocs.io/en/latest/) #python 
 	- [lidar](https://lidar.gishub.org/) #raster #tool
@@ -49,7 +56,7 @@ Inspirations:
 	- [MapGuide Open Source - OSGeo](https://www.osgeo.org/projects/mapguide-open-source/) #tool
 	- [MapLibre](./MapLibre/MapLibre.md) #server #javascript 
 	- [MapServer](./MapServer/Mapserver.md)  #server 
-	- [MapTiler](./MapTiler.md) #cloud #javascript #tileset
+	- [MapTiler](./MapTiler/MapTiler.md) #cloud #server #tileset #maptiling
 	- [MapWindow](https://www.mapwindow.org/)
 	- [MBTiles](./MBTiles/MBTiles.md) #tileset
 	- [OpenCV](https://opencv.org/)
@@ -59,21 +66,34 @@ Inspirations:
 		- [planetiler: Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast](https://github.com/onthegomap/planetiler)
 		- [openstreetmap - Simple way to have an offline web based map? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/23720/simple-way-to-have-an-offline-web-based-map)  
 	- [Orfeo ToolBox](https://www.orfeo-toolbox.org/) #tool 
+	- [OSMnx](./OSMnx/OSMnx.md) #python #network #openstreetmap
+	- [PDAL](./PDAL/PDAL.md) #point-cloud #lidar #tool
 	- [PMTiles](./PMTiles/PMTiles.md) #tileset
+	- [PostGIS](./PostGIS/PostGIS.md) #database #server #analytics
+		- [pg_featureserv](./PostGIS/pg_featureserv.md) #server #api #postgis
+		- [pg_tileserv](./PostGIS/pg_tileserv.md) #server #tileset #postgis
 	- [PROJ](https://proj.org/en/9.5/)  #transformation #tool
+	- [pygeoapi](./pygeoapi/pygeoapi.md) #server #api #python #ogc
+	- [pyogrio](./pyogrio/pyogrio.md) #python #vector #gdal
 	- [pyproj · PyPI](https://pypi.org/project/pyproj/)
 	- [pyshp](./pyshp.md)
 	- [Rasterio: access to geospatial raster data — rasterio 1.4dev documentation](https://rasterio.readthedocs.io/en/latest/index.html) #raster 
+	- [rioxarray](./rioxarray/rioxarray.md) #python #raster #xarray
 	- [RSGISLib](http://rsgislib.org/)  Remote Sensing and other #tool 
 	- [QGIS](QGIS/QGIS.md) #desktop
 	- [QMapShack](QMapShack.md)
+	- [S2](./S2/S2.md) #indexing #analytics #grid
 	- [SAGA GIS](https://saga-gis.sourceforge.io/en/index.html) - system for automated geoscientific analyses
 	- Shape Viewer
 	- [Shapely — Shapely 2.0.6 documentation](https://shapely.readthedocs.io/en/stable/)
 	- [TatukGIS](https://www.tatukgis.com/Home.aspx)
+	- [TiTiler](./TiTiler/TiTiler.md) #server #raster #tileset #python
 	- [TileMill | TileMill](https://tilemill-project.github.io/tilemill/)
+	- [Tippecanoe](./Tippecanoe/Tippecanoe.md) #tileset #tool #vector-tiles
+	- [Turf.js](./Turf/Turf.js.md) #javascript #analysis #geometry
 	- [uDig](http://udig.refractions.net/) - User friendly GIS
 	- [Whitebox Tools](https://jblindsay.github.io/ghrg/software.shtml) #desktop #tool 
+	- [xarray](./xarray/xarray.md) #python #raster #datacube
 - Specific tool sets
 	- Network analysis software
 		- [Water_Related_Model](Network/Water_Related_Model.md)
@@ -154,5 +174,4 @@ offline maps web based
 	- [Ozi explorer maps to Geotiff - GeoData - GISarea - Geographic Information Science Forum](https://www.gisarea.com/forums/topic/1086-ozi-explorer-maps-to-geotiff/)
 [GTK DBF Editor](http://sdteffen.de/gtkdbfeditor/)
 
-### Side project: [World places](./Data/Sources/Sources.md)
-
+### Side project: [World places](./Data/Places/README.md)
