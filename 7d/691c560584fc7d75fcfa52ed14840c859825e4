@@ -1,0 +1,27 @@
+Data/Flat/GeoParquet/GeoParquet.md
+  s_69856bf6847942::t_564cde46a963fd 2-9,11-15
+  s_69856bf6847942::t_0920b19fc5322b 1,10
+Data/Raster/COG/COG.md
+  s_69856bf6847942::t_564cde46a963fd 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7d691c560584fc7d75fcfa52ed14840c859825e4",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_69856bf6847942": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9e61-a594-7172-b505-154cf6f9d901",
+        "model": "gpt-5.5"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
