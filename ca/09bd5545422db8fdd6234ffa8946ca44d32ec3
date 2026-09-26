@@ -1,0 +1,24 @@
+Data/Sources/Sources.md
+  s_69856bf6847942::t_20baff392358ee 1,3,5-8,10,12-16,18,20,22,24,26,28,30,32,34,36,38-41,43,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ca09bd5545422db8fdd6234ffa8946ca44d32ec3",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_69856bf6847942": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9e61-a594-7172-b505-154cf6f9d901",
+        "model": "gpt-5.5"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
