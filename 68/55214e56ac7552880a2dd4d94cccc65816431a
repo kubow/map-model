@@ -1,0 +1,31 @@
+PostGIS/script/S-JTSK.sql
+  s_69856bf6847942::t_5772546203c1cc 1-8,10,12,14-19
+  h_0907ec034f4a17 9,11,13
+PostGIS/script/CreateFakeLayer.cs
+  h_0907ec034f4a17 1-54
+PostGIS/script/LMImportData.py
+  h_0907ec034f4a17 1-313
+PostGIS/script/TestExtremeOpt.py
+  h_0907ec034f4a17 1-850
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6855214e56ac7552880a2dd4d94cccc65816431a",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_69856bf6847942": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e9e61-a594-7172-b505-154cf6f9d901",
+        "model": "gpt-5.5"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
