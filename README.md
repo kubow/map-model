@@ -12,7 +12,7 @@ Inspirations:
 - General GIS tools
 	- [Android GIS](Android/AndroidGIS.md) - section with software specifically for Android OS
 	- BT747 (log) #desktop #tool 
-	- [CAD](CAD.md) Software (only GIS related topics) #desktop 
+	- [CAD](CAD/CAD.md) Software (only GIS related topics) #desktop 
 	- [Carto](./Carto/Carto.md) #cloud #analytics 
 	- [Cartopy](https://scitools.org.uk/cartopy/docs/latest/)
 	- [CesiumJS – Cesium](https://cesium.com/platform/cesiumjs/) (3D globes) #javascript 

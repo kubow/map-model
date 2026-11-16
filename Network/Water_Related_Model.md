@@ -1,7 +1,7 @@
 [Water Resources Software (USGS.gov)](https://water.usgs.gov/software/lists/alphabetical)
 
-- [Deltares](Network/Deltares.md)
-- [DHI_Products](Network/DHI_Products.md)
+- [Deltares](Deltares.md)
+- [DHI_Products](DHI_Products.md)
 - [EpaNET](./EPANET.md)
 
 Python solutions
