@@ -15,7 +15,7 @@
 [How Mapbox Standard Simplifies Map Development](https://www.mapbox.com/blog/streamline-map-development-mapbox-basemap)
 [Explore Cities and Landmarks in 3D with Mapbox Standard](https://www.mapbox.com/blog/global-cities-3d-landmarks)
 
-![[MapBox_actions.png]]
+![MapBox_actions](MapBox_actions.png)
 
 Custom online maps provider
 https://www.mapbox.com/

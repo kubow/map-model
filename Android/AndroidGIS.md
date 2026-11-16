@@ -1,7 +1,7 @@
 #mobile
 
 - [Android GIS – OPENGIS.ch](https://www.opengis.ch/android-gis/)
-- [[OpenWebGIS]]
+- [OpenWebGIS](OpenWebGIS.md)
 - OruxMaps (can upload KMZ)
 
 ### Reccomends 

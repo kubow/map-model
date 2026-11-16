@@ -5,8 +5,8 @@ A set of open source GIS binaries written by Frank Warmerdam
 
 
 - [OpenEV Home](https://openev.sourceforge.net/)
-- [[Mapserver]]
-- [[GDAL]]
+- [MapServer](MapServer/Mapserver.md)
+- [GDAL](GDAL.md)
 - [PROJ — PROJ 9.1.1 documentation](https://proj.org/)
 - [OGDI](https://ogdi.sourceforge.net/)
 

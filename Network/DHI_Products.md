@@ -1,7 +1,7 @@
 - [Browse Software Products](https://www.mikepoweredbydhi.com/products)
 	- MIKE 1D, 2D
 	- MIKE URBAN
-	- [[#MikeIPO]] (?deprecated)
+	- [MikeIPO](#mikeipo) (?deprecated)
 - [Tools & Add-Ons](https://www.mikepoweredbydhi.com/download/mike-by-dhi-tools)
 - 
 

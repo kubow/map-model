@@ -23,11 +23,11 @@ Python solutions
 	- Tanks
 	- Reservoirs
 - Valves
-	- PRV (Pressure Reduction Valve) setting = pressure after the Valve ![[PRV.png]]
-	- PSV (Pressure Sustain Valve) setting = pressure in front of Valve ![[PSV.png]]
-	- PBV (Pressure Break Valve) setting = lower value of pressure ![[PBV.png]]
+	- PRV (Pressure Reduction Valve) setting = pressure after the Valve ![PRV](image/PRV.png)
+	- PSV (Pressure Sustain Valve) setting = pressure in front of Valve ![PSV](image/PSV.png)
+	- PBV (Pressure Break Valve) setting = lower value of pressure ![PBV](image/PBV.png)
 	- FCV (Flow Control Valve) setting = flow after the valve
-	- TCV (Throttle Control Valve) setting = coefficient in formula $\Delta h=\xi v^{2}/2g$ ![[TCV.png]]
+	- TCV (Throttle Control Valve) setting = coefficient in formula $\Delta h=\xi v^{2}/2g$ ![TCV](image/TCV.png)
 	- GPV (General Purpose Valve) contains relation curve:
 		- Valve head loss
 		- Valve operation schedule
@@ -47,6 +47,6 @@ Python solutions
 
 
 
-![[WD_Legend_Prutok.png]]
+![WD_Legend_Prutok](image/WD_Legend_Prutok.png)
 
-![[WD_Legend_Tlak.png]]
+![WD_Legend_Tlak](image/WD_Legend_Tlak.png)
